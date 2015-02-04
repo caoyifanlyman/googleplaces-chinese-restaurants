@@ -61,20 +61,21 @@ function searchCallback(results, status) {
   for (var i = 0, result; result = results[i]; i++) {
 
     // call details for each
-    service.getDetails(result, function(detailResult, status) {
-      if (detailResult != google.maps.places.PlacesServiceStatus.OK) {
-        alert(status);
-        return;
-      }
-      // push the result
-      resultList.push({
-        "name": detailResult.name,
-        "location": result.geometry.location,
-        "address": detailResult.formatted_address,
-        "price_level": detailResult.price_level
-        });
+    // TODO(lyman): Set interval to call API in case of calling too fast.
+    // service.getDetails(result, function(detailResult, status) {
+    //   if (detailResult != google.maps.places.PlacesServiceStatus.OK) {
+    //     alert(status);
+    //     return;
+    //   }
+    //   // push the result
+    //   resultList.push({
+    //     "name": detailResult.name,
+    //     "location": result.geometry.location,
+    //     "address": detailResult.formatted_address,
+    //     "price_level": detailResult.price_level
+    //     });
 
-    });
+    // });
 
     // Create the marker in map
     createMarker(result);
@@ -102,10 +103,6 @@ function createMarker(place) {
         alert(status);
         return;
       }
-
-      // print the resultlist
-      console.log(resultList.length);
-      console.log(resultList);
 
       infoWindow.setContent(result.name);
       infoWindow.open(map, marker);
