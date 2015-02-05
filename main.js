@@ -1,23 +1,17 @@
 var request = require('request');
 var fs = require('fs');
+var config = require('./config');
 
-const GOOGLE_API = 'AIzaSyAnY1z6pf2vdCifFQrSs-EQsP5efdk44oo';
+const GOOGLE_API = config.apikey;
+const filename = config.filename;
+var radarParameter = config.radarParameter;
 const baseUrl = 'https://maps.googleapis.com/maps/api/place';
 const radarSearchUrl = '/radarsearch/json?';
 const detailSearchUrl = '/details/json?';
-const filename = 'sanfrancisco/result.json';
 
 var interval = 10; // Interval for each detailPlace request, which will be changed later randomly.
 var savedCount = 0;
 var finalResult = [];
-
-var radarParameter = {
-  'location': '37.741518, -122.440056',
-  'radius': '10000',
-  'types': 'restaurant|food',
-  'keyword': 'Chinese',
-  'key': GOOGLE_API
-};
 
 request.get(baseUrl + radarSearchUrl + toParameter(radarParameter), function(err, response, body){
   var all;
@@ -26,6 +20,7 @@ request.get(baseUrl + radarSearchUrl + toParameter(radarParameter), function(err
   }
   if (response.statusCode == 200){
     // Get detail of single place and write to file.
+    console.log(body);
     getDetailAndWrite(JSON.parse(body).results); 
   } else{
     console.log('status code err: ' + response.statusCode);
@@ -59,7 +54,7 @@ function createFunc(index, all){
         if (err){
           return console.error('detail request failed: ', err);
         }
-        if (response. statusCode == 200){
+        if (response.statusCode == 200){
           var value = JSON.parse(body).result;
           var data = {
             'name': value.name,
@@ -72,8 +67,8 @@ function createFunc(index, all){
           console.log('new detail index: ' + index);
 
           // When all the data are saved to finalresult, write to file.
-          if (savedCount === 200) {
-            fs.appendFile(filename, JSON.stringify(finalResult, null, 4), function(err){
+          if (savedCount === all.length) {
+            fs.writeFile(filename, JSON.stringify(finalResult, null, 4), function(err){
               if(err) throw err;
               console.log(finalResult.length + ' results have been saved to file: ' + filename);
             });
