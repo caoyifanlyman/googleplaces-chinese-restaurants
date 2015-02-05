@@ -1,0 +1,1646 @@
+[
+    {
+        "name": "88 Chinese Restaurant",
+        "location": {
+            "lat": 37.677142,
+            "lng": -122.142621
+        },
+        "address": "15809 Channel Street, San Lorenzo, CA 94580, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Yummy Yummy Chinese Restaurant",
+        "location": {
+            "lat": 37.729339,
+            "lng": -122.159082
+        },
+        "address": "794 East 14th Street, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Szechwan Cafe",
+        "location": {
+            "lat": 37.426661,
+            "lng": -122.144901
+        },
+        "address": "406 California Avenue, Palo Alto, CA 94306, United States",
+        "price_level": 2
+    },
+    {
+        "name": "P.F. Chang's",
+        "location": {
+            "lat": 37.443708,
+            "lng": -122.168165
+        },
+        "address": "900 Stanford Shopping Center, Palo Alto, CA 94304, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Garden Fresh Chinese Vegan Cuisine",
+        "location": {
+            "lat": 37.445569,
+            "lng": -122.162915
+        },
+        "address": "460 Ramona Street, Palo Alto, CA 94301, United States"
+    },
+    {
+        "name": "Chef Peking",
+        "location": {
+            "lat": 37.494205,
+            "lng": -122.23315
+        },
+        "address": "515 Veterans Boulevard, Redwood City, CA 94401, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Great River",
+        "location": {
+            "lat": 37.680684,
+            "lng": -122.085575
+        },
+        "address": "22218 Foothill Boulevard, Hayward, CA 94541, United States"
+    },
+    {
+        "name": "Su Hong to Go",
+        "location": {
+            "lat": 37.452287,
+            "lng": -122.182586
+        },
+        "address": "630 Menlo Avenue, Menlo Park, CA 94025, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Imperial Delight",
+        "location": {
+            "lat": 37.764127,
+            "lng": -121.952297
+        },
+        "address": "290 Market Place, San Ramon, CA 94583, United States"
+    },
+    {
+        "name": "China Garden Restaurant",
+        "location": {
+            "lat": 37.681541,
+            "lng": -121.778066
+        },
+        "address": "1536 Railroad Avenue, Livermore, CA 94550, United States",
+        "price_level": 1
+    },
+    {
+        "name": "World Gourmet",
+        "location": {
+            "lat": 37.519451,
+            "lng": -121.989419
+        },
+        "address": "6010 Stevenson Boulevard, Fremont, CA 94538, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hong Kong Chef",
+        "location": {
+            "lat": 37.493106,
+            "lng": -121.930914
+        },
+        "address": "46356 Warm Springs Boulevard, Fremont, CA 94539, United States"
+    },
+    {
+        "name": "Jade Palace Chinese Kitchen",
+        "location": {
+            "lat": 37.799166,
+            "lng": -122.212202
+        },
+        "address": "2531 MacArthur Boulevard, Oakland, CA 94602, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Full House Chinese Restaurant",
+        "location": {
+            "lat": 37.556895,
+            "lng": -121.952606
+        },
+        "address": "39933 Mission Boulevard, Fremont, CA 94539, United States"
+    },
+    {
+        "name": "China Delight",
+        "location": {
+            "lat": 37.444971,
+            "lng": -122.162991
+        },
+        "address": "461 Emerson Street, Palo Alto, CA 94301, United States",
+        "price_level": 1
+    },
+    {
+        "name": "House of Dumplings",
+        "location": {
+            "lat": 37.591555,
+            "lng": -122.002824
+        },
+        "address": "109 Appian Way, Union City, CA 94587, United States"
+    },
+    {
+        "name": "Golden Mountain Restaurant",
+        "location": {
+            "lat": 37.68077,
+            "lng": -122.086853
+        },
+        "address": "21933 Foothill Boulevard, Hayward, CA 94541, United States"
+    },
+    {
+        "name": "Little Shen Yang Restaurant",
+        "location": {
+            "lat": 37.58954,
+            "lng": -122.022328
+        },
+        "address": "1749 Decoto Road, Union City, CA 94587, United States"
+    },
+    {
+        "name": "China Station",
+        "location": {
+            "lat": 37.585571,
+            "lng": -122.060578
+        },
+        "address": "3880 Lake Arrowhead Avenue, Fremont, CA 94555, United States"
+    },
+    {
+        "name": "Palace Chef",
+        "location": {
+            "lat": 37.556083,
+            "lng": -122.014415
+        },
+        "address": "4370 Thornton Avenue, Fremont, CA 94536, United States"
+    },
+    {
+        "name": "New Oceanic Restaurant",
+        "location": {
+            "lat": 37.688026,
+            "lng": -121.78575
+        },
+        "address": "855 Rincon Avenue, Livermore, CA 94551, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Food Talk Cafe",
+        "location": {
+            "lat": 37.50009,
+            "lng": -121.973702
+        },
+        "address": "43755 Boscell Road, Fremont, CA 94538, United States"
+    },
+    {
+        "name": "Hong Kong Seafood Restaurant",
+        "location": {
+            "lat": 37.632578,
+            "lng": -122.068483
+        },
+        "address": "661 West Tennyson Road, Hayward, CA 94544, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Peking Garden Restaurant",
+        "location": {
+            "lat": 37.680358,
+            "lng": -122.126651
+        },
+        "address": "15950 Hesperian Boulevard, San Lorenzo, CA 94580, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Shiok",
+        "location": {
+            "lat": 37.451937,
+            "lng": -122.185243
+        },
+        "address": "1137 Chestnut Street, Menlo Park, CA 94025, United States",
+        "price_level": 2
+    },
+    {
+        "name": "New Hong Kong Restaurant",
+        "location": {
+            "lat": 37.721683,
+            "lng": -122.150968
+        },
+        "address": "1750 East 14th Street, San Leandro, CA 94577, United States",
+        "price_level": 1
+    },
+    {
+        "name": "The Porridge",
+        "location": {
+            "lat": 37.455623,
+            "lng": -121.909913
+        },
+        "address": "1706 North Milpitas Boulevard, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "Yu Yu Restaurant",
+        "location": {
+            "lat": 37.709998,
+            "lng": -121.928419
+        },
+        "address": "7465 Amador Valley Boulevard, Dublin, CA 94568, United States"
+    },
+    {
+        "name": "China Gourmet Express",
+        "location": {
+            "lat": 37.799506,
+            "lng": -122.216793
+        },
+        "address": "3407 Fruitvale Avenue, Oakland, CA 94602, United States"
+    },
+    {
+        "name": "Mei Mei Restaurant",
+        "location": {
+            "lat": 37.763937,
+            "lng": -122.239378
+        },
+        "address": "2522 Santa Clara Avenue, Alameda, CA 94501, United States",
+        "price_level": 2
+    },
+    {
+        "name": "D T Dim Sum & Tea",
+        "location": {
+            "lat": 37.680039,
+            "lng": -122.154299
+        },
+        "address": "1970 Lewelling Boulevard, San Leandro, CA 94579, United States"
+    },
+    {
+        "name": "Yat Sing Restaurant",
+        "location": {
+            "lat": 37.457868,
+            "lng": -122.228937
+        },
+        "address": "38 Woodside Plaza, Redwood City, CA 94061, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Flower Lounge Restaurant",
+        "location": {
+            "lat": 37.800637,
+            "lng": -122.217905
+        },
+        "address": "2033 MacArthur Boulevard, Oakland, CA 94602, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.700099,
+            "lng": -122.125738
+        },
+        "address": "15555 East 14th Street, San Leandro, CA 94578, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.740133,
+            "lng": -122.198621
+        },
+        "address": "8333 Oakport Street, Oakland, CA 94621, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.691699,
+            "lng": -121.773505
+        },
+        "address": "2100 Portola Avenue, Livermore, CA 94550, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.694298,
+            "lng": -121.746297
+        },
+        "address": "4213 First Street, Livermore, CA 94551, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.608855,
+            "lng": -122.065051
+        },
+        "address": "30158 Industrial Parkway Southwest, Hayward, CA 94544, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Daimo Chinese Restaurant",
+        "location": {
+            "lat": 37.723915,
+            "lng": -122.15415
+        },
+        "address": "1456 East 14th Street, San Leandro, CA 94577, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Milpitas Buffet",
+        "location": {
+            "lat": 37.428017,
+            "lng": -121.913231
+        },
+        "address": "24 South Abbott Avenue, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "Tai Pan",
+        "location": {
+            "lat": 37.446434,
+            "lng": -122.15974
+        },
+        "address": "560 Waverley Street, Palo Alto, CA 94301, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Wing Wah Chinese Restaurant",
+        "location": {
+            "lat": 37.797152,
+            "lng": -122.20478
+        },
+        "address": "3009 MacArthur Boulevard, Oakland, CA 94602, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tin Fu Restaurant",
+        "location": {
+            "lat": 37.646811,
+            "lng": -122.088652
+        },
+        "address": "448 West Harder Road, Hayward, CA 94544, United States"
+    },
+    {
+        "name": "China Garden",
+        "location": {
+            "lat": 37.684987,
+            "lng": -122.073963
+        },
+        "address": "22253 Redwood Road, Castro Valley, CA 94546, United States"
+    },
+    {
+        "name": "Koong's",
+        "location": {
+            "lat": 37.434507,
+            "lng": -121.902256
+        },
+        "address": "103 North Milpitas Boulevard, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "Gold Chopsticks",
+        "location": {
+            "lat": 37.691355,
+            "lng": -121.877019
+        },
+        "address": "Suite A-11, 3170 Santa Rita Road, Pleasanton, CA 94566, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Sha Bistro",
+        "location": {
+            "lat": 37.588722,
+            "lng": -122.021163
+        },
+        "address": "1773 Decoto Road, Union City, CA 94587, United States"
+    },
+    {
+        "name": "LY Luck Restaurant",
+        "location": {
+            "lat": 37.801022,
+            "lng": -122.216089
+        },
+        "address": "3537 Fruitvale Avenue, Oakland, CA 94602, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China Cook",
+        "location": {
+            "lat": 37.631434,
+            "lng": -122.096805
+        },
+        "address": "27320 Hesperian Boulevard, Hayward, CA 94545, United States"
+    },
+    {
+        "name": "New China Foods",
+        "location": {
+            "lat": 37.456575,
+            "lng": -121.910269
+        },
+        "address": "1836 North Milpitas Boulevard, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "Uncle Yu's San Ramon",
+        "location": {
+            "lat": 37.77988,
+            "lng": -121.971878
+        },
+        "address": "2005 Crow Canyon Place, San Ramon, CA 94583, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Ming's Szechwan Restaurant",
+        "location": {
+            "lat": 37.53288,
+            "lng": -121.95794
+        },
+        "address": "3915 Washington Boulevard, Fremont, CA 94538, United States"
+    },
+    {
+        "name": "Uncle Wong Restaurant",
+        "location": {
+            "lat": 37.698775,
+            "lng": -122.175977
+        },
+        "address": "13780 Doolittle Drive, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Buffet Fortuna",
+        "location": {
+            "lat": 37.724491,
+            "lng": -122.155892
+        },
+        "address": "1330 Washington Avenue, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Imperial Garden",
+        "location": {
+            "lat": 37.74038,
+            "lng": -122.147234
+        },
+        "address": "310 MacArthur Boulevard, San Leandro, CA 94577, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.657484,
+            "lng": -121.898438
+        },
+        "address": "6774 Bernal Avenue, Pleasanton, CA 94588, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.672784,
+            "lng": -122.085236
+        },
+        "address": "783 A Street, Hayward, CA 94541, United States",
+        "price_level": 1
+    },
+    {
+        "name": "China Paradise Restaurant",
+        "location": {
+            "lat": 37.797871,
+            "lng": -121.919703
+        },
+        "address": "3446 Camino Tassajara, Danville, CA 94506, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chinese Szechuan Restaurant",
+        "location": {
+            "lat": 37.67748,
+            "lng": -121.896105
+        },
+        "address": "3059 Hopyard Road #F, Pleasanton, CA 94588, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Koi Palace",
+        "location": {
+            "lat": 37.704664,
+            "lng": -121.876052
+        },
+        "address": "4288 Dublin Boulevard, Dublin, CA 94568, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Happy Kitchen",
+        "location": {
+            "lat": 37.523188,
+            "lng": -122.00799
+        },
+        "address": "39055 Cedar Boulevard, Newark, CA 94560, United States"
+    },
+    {
+        "name": "China Village",
+        "location": {
+            "lat": 37.704064,
+            "lng": -121.934287
+        },
+        "address": "7200 Regional Street, Dublin, CA 94568, United States"
+    },
+    {
+        "name": "Ann's Chinese Fast Food",
+        "location": {
+            "lat": 37.549222,
+            "lng": -122.045801
+        },
+        "address": "United States"
+    },
+    {
+        "name": "Yin Yin Restaurant",
+        "location": {
+            "lat": 37.681047,
+            "lng": -121.770093
+        },
+        "address": "2083 First Street, Livermore, CA 94550, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China Rose",
+        "location": {
+            "lat": 37.447798,
+            "lng": -121.90251
+        },
+        "address": "387 Jacklin Road, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "Hong Kong BBQ Restaurant",
+        "location": {
+            "lat": 37.694258,
+            "lng": -122.073586
+        },
+        "address": "20918 Redwood Road, Castro Valley, CA 94546, United States"
+    },
+    {
+        "name": "New China Foods",
+        "location": {
+            "lat": 37.589532,
+            "lng": -122.022153
+        },
+        "address": "1743 Decoto Road, Union City, CA 94587, United States"
+    },
+    {
+        "name": "Yuk Wah Restaurant",
+        "location": {
+            "lat": 37.557772,
+            "lng": -122.00582
+        },
+        "address": "37418 Fremont Boulevard, Fremont, CA 94536, United States"
+    },
+    {
+        "name": "Full Moon Seafood House",
+        "location": {
+            "lat": 37.800844,
+            "lng": -122.217495
+        },
+        "address": "2042 MacArthur Boulevard, Oakland, CA 94602, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.55226,
+            "lng": -122.048151
+        },
+        "address": "5829 Jarvis Avenue, Newark, CA 94560, United States",
+        "price_level": 1
+    },
+    {
+        "name": "China Bowl Restaurant",
+        "location": {
+            "lat": 37.694433,
+            "lng": -122.08695
+        },
+        "address": "2690 Castro Valley Boulevard, Castro Valley, CA 94546, United States"
+    },
+    {
+        "name": "Kung Fu Kitchen",
+        "location": {
+            "lat": 37.575379,
+            "lng": -122.044392
+        },
+        "address": "34137 Fremont Boulevard, Fremont, CA 94555, United States"
+    },
+    {
+        "name": "YiPing Restaurant",
+        "location": {
+            "lat": 37.774702,
+            "lng": -121.975223
+        },
+        "address": "2416 San Ramon Valley Boulevard #140, San Ramon, CA 94583, United States"
+    },
+    {
+        "name": "South Legend Szechuan Cuisine",
+        "location": {
+            "lat": 37.456102,
+            "lng": -121.910125
+        },
+        "address": "1720 North Milpitas Boulevard, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "China Villa",
+        "location": {
+            "lat": 37.680822,
+            "lng": -121.747853
+        },
+        "address": "4022 East Avenue, Livermore, CA 94550, United States",
+        "price_level": 1
+    },
+    {
+        "name": "New China Station BBQ Restaurant",
+        "location": {
+            "lat": 37.523188,
+            "lng": -122.00799
+        },
+        "address": "39055 Cedar Boulevard, Newark, CA 94560, United States"
+    },
+    {
+        "name": "Yum's Bistro",
+        "location": {
+            "lat": 37.567132,
+            "lng": -122.052134
+        },
+        "address": "4906 Paseo Padre Parkway, Fremont, CA 94555, United States"
+    },
+    {
+        "name": "Hong Kong Express Restaurant",
+        "location": {
+            "lat": 37.703245,
+            "lng": -122.127547
+        },
+        "address": "1356 Fairmont Drive, San Leandro, CA 94578, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Chef Ming Chinese Food",
+        "location": {
+            "lat": 37.665579,
+            "lng": -122.1187
+        },
+        "address": "1169 West A Street, Hayward, CA 94541, United States"
+    },
+    {
+        "name": "Uncle Yu Express Restaurant",
+        "location": {
+            "lat": 37.611973,
+            "lng": -122.067068
+        },
+        "address": "30059 Industrial Pkwy, Union City, CA 94587, United States"
+    },
+    {
+        "name": "Shangrila Chinese Cuisine",
+        "location": {
+            "lat": 37.705407,
+            "lng": -121.923486
+        },
+        "address": "6568 Village Parkway, Dublin, CA 94568, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Eastern Winds Chinese Restaurant",
+        "location": {
+            "lat": 37.532266,
+            "lng": -121.960336
+        },
+        "address": "41039 Fremont Boulevard, Fremont, CA 94538, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hunan Yuan Restaurant",
+        "location": {
+            "lat": 37.797842,
+            "lng": -122.182204
+        },
+        "address": "4100 Redwood Road #11, Oakland, CA 94619, United States"
+    },
+    {
+        "name": "Hong Kong Chinese Buffet",
+        "location": {
+            "lat": 37.532453,
+            "lng": -121.960264
+        },
+        "address": "41063 Fremont Boulevard, Fremont, CA 94538, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hung's Kitchen",
+        "location": {
+            "lat": 37.771042,
+            "lng": -121.948239
+        },
+        "address": "500 Bollinger Canyon Way A1, San Ramon, CA 94582, United States"
+    },
+    {
+        "name": "Peking Restaurant",
+        "location": {
+            "lat": 37.700217,
+            "lng": -121.74268
+        },
+        "address": "4510 Las Positas Road, Livermore, CA 94551, United States",
+        "price_level": 1
+    },
+    {
+        "name": "P.F. Chang's",
+        "location": {
+            "lat": 37.693528,
+            "lng": -121.928836
+        },
+        "address": "1330 Stoneridge Mall Road, Pleasanton, CA 94588, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chowking",
+        "location": {
+            "lat": 37.591433,
+            "lng": -122.069978
+        },
+        "address": "31840 Alvarado Boulevard, Union City, CA 94587, United States"
+    },
+    {
+        "name": "Pho Hoa",
+        "location": {
+            "lat": 37.657481,
+            "lng": -121.877855
+        },
+        "address": "201 Main Street E&F, Pleasanton, CA 94566, United States"
+    },
+    {
+        "name": "King Palace",
+        "location": {
+            "lat": 37.775327,
+            "lng": -121.922894
+        },
+        "address": "11040 Bollinger Canyon Road, San Ramon, CA 94582, United States"
+    },
+    {
+        "name": "Melin House Chinese Restaurant",
+        "location": {
+            "lat": 37.454987,
+            "lng": -121.910553
+        },
+        "address": "1708 North Milpitas Boulevard, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "I Dumpling",
+        "location": {
+            "lat": 37.486456,
+            "lng": -122.234673
+        },
+        "address": "2660 Broadway, Redwood City, CA 94063, United States"
+    },
+    {
+        "name": "Peach Garden",
+        "location": {
+            "lat": 37.519655,
+            "lng": -121.993019
+        },
+        "address": "5862 Mowry School Road, Newark, CA 94560, United States"
+    },
+    {
+        "name": "New Tung Kee Noodle House",
+        "location": {
+            "lat": 37.524457,
+            "lng": -122.007468
+        },
+        "address": "39029 Cedar Boulevard, Newark, CA 94560, United States"
+    },
+    {
+        "name": "Halan Restaurant",
+        "location": {
+            "lat": 37.679662,
+            "lng": -122.155588
+        },
+        "address": "2050 Lewelling Boulevard, San Leandro, CA 94579, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.7103,
+            "lng": -122.163264
+        },
+        "address": "1271 Marina Boulevard, San Leandro, CA 94577, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.434303,
+            "lng": -121.900231
+        },
+        "address": "70 North Milpitas Boulevard, Milpitas, CA 95035, United States",
+        "price_level": 1
+    },
+    {
+        "name": "China Express",
+        "location": {
+            "lat": 37.54472,
+            "lng": -121.981623
+        },
+        "address": "39473 Fremont Boulevard, Fremont, CA 94538, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chinese Garden Restaurant",
+        "location": {
+            "lat": 37.672491,
+            "lng": -122.086655
+        },
+        "address": "766 A Street, Hayward, CA 94541, United States"
+    },
+    {
+        "name": "Ho Chow Restaurant",
+        "location": {
+            "lat": 37.476689,
+            "lng": -121.921236
+        },
+        "address": "47966 Warm Springs Boulevard, Fremont, CA 94539, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Fey Restaurant",
+        "location": {
+            "lat": 37.455707,
+            "lng": -122.18674
+        },
+        "address": "1368 El Camino Real, Menlo Park, CA 94025, United States"
+    },
+    {
+        "name": "New Luk Yuen Restaurant",
+        "location": {
+            "lat": 37.591591,
+            "lng": -122.071372
+        },
+        "address": "31802 Alvarado Boulevard, Union City, CA 94587, United States"
+    },
+    {
+        "name": "China Delights",
+        "location": {
+            "lat": 37.729406,
+            "lng": -121.931561
+        },
+        "address": "9150 Alcosta Boulevard, San Ramon, CA 94583, United States"
+    },
+    {
+        "name": "New Yong Kang Seafood Restaurant",
+        "location": {
+            "lat": 37.534426,
+            "lng": -121.960751
+        },
+        "address": "40900 Fremont Boulevard, Fremont, CA 94538, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Creasian",
+        "location": {
+            "lat": 37.729948,
+            "lng": -122.139138
+        },
+        "address": "1269 MacArthur Boulevard, San Leandro, CA 94577, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Cousin Cafe",
+        "location": {
+            "lat": 37.522943,
+            "lng": -122.005609
+        },
+        "address": "39193 Cedar Boulevard, Newark, CA 94560, United States"
+    },
+    {
+        "name": "Hong Kong Restaurant",
+        "location": {
+            "lat": 37.588869,
+            "lng": -122.068806
+        },
+        "address": "4100 Dyer Street, Union City, CA 94587, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Best Bbq Chinese Food",
+        "location": {
+            "lat": 37.689296,
+            "lng": -122.137125
+        },
+        "address": "180 Greenhouse Marketplace, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.503654,
+            "lng": -121.975432
+        },
+        "address": "43384 Boscell Road, Fremont, CA 94538, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hometown Favorite Chinese",
+        "location": {
+            "lat": 37.526485,
+            "lng": -121.918335
+        },
+        "address": "43689 Mission Boulevard, Fremont, CA 94539, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.818157,
+            "lng": -121.996863
+        },
+        "address": "495 San Ramon Valley Boulevard, Danville, CA 94526, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tasty Restaurant",
+        "location": {
+            "lat": 37.52697,
+            "lng": -121.998546
+        },
+        "address": "5576 Newpark Mall Road, Newark, CA 94560, United States"
+    },
+    {
+        "name": "Asian Wok Chinese Restaurant",
+        "location": {
+            "lat": 37.648638,
+            "lng": -122.091209
+        },
+        "address": "24933 Santa Clara Street #3, Hayward, CA 94544, United States"
+    },
+    {
+        "name": "Canton Village",
+        "location": {
+            "lat": 37.679208,
+            "lng": -121.782086
+        },
+        "address": "1100 East Stanley Boulevard, Livermore, CA 94550, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China Best Restaurant",
+        "location": {
+            "lat": 37.655799,
+            "lng": -122.04856
+        },
+        "address": "26775 Hayward Boulevard, Hayward, CA 94542, United States"
+    },
+    {
+        "name": "Peking Duck Restaurant",
+        "location": {
+            "lat": 37.428453,
+            "lng": -122.142756
+        },
+        "address": "151 California Avenue, Palo Alto, CA 94306, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Little Sichuan",
+        "location": {
+            "lat": 37.547707,
+            "lng": -122.047008
+        },
+        "address": "35233 Newark Boulevard, Newark, CA 94560, United States"
+    },
+    {
+        "name": "Yummy Restaurant",
+        "location": {
+            "lat": 37.631252,
+            "lng": -122.077096
+        },
+        "address": "1160 West Tennyson Road, Hayward, CA 94544, United States"
+    },
+    {
+        "name": "Chili Palace",
+        "location": {
+            "lat": 37.429062,
+            "lng": -121.911032
+        },
+        "address": "177 West Calaveras Boulevard, Milpitas, CA 95035, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chinese Cuisine",
+        "location": {
+            "lat": 37.554307,
+            "lng": -121.980364
+        },
+        "address": "39144 Paseo Padre Parkway, Fremont, CA 94538, United States"
+    },
+    {
+        "name": "Top Cafe Inc",
+        "location": {
+            "lat": 37.457533,
+            "lng": -121.910245
+        },
+        "address": "50 Dixon Road, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "Leo's Chinese Restaurant",
+        "location": {
+            "lat": 37.814689,
+            "lng": -121.998178
+        },
+        "address": "105 Town and Country Drive, Danville, CA 94526, United States"
+    },
+    {
+        "name": "New Hwong Kok",
+        "location": {
+            "lat": 37.455068,
+            "lng": -121.911658
+        },
+        "address": "1705 North Milpitas Boulevard, Milpitas, CA 95035, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tasty Chinese Restaurant",
+        "location": {
+            "lat": 37.526225,
+            "lng": -122.000783
+        },
+        "address": "5576 Newpark Mall, Newark, CA 94560, United States"
+    },
+    {
+        "name": "Jade Palace",
+        "location": {
+            "lat": 37.428337,
+            "lng": -122.142631
+        },
+        "address": "151 California Avenue, Palo Alto, CA 94306, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chopstick Express",
+        "location": {
+            "lat": 37.715341,
+            "lng": -122.142396
+        },
+        "address": "13780 East 14th Street, San Leandro, CA 94578, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.697753,
+            "lng": -121.874361
+        },
+        "address": "4001 Santa Rita Road, Pleasanton, CA 94588, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Uncle Yu's at the Vineyard",
+        "location": {
+            "lat": 37.682313,
+            "lng": -121.769129
+        },
+        "address": "39 South Livermore Avenue #125, Livermore, CA 94550, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Fortune Cookie Chinese Food",
+        "location": {
+            "lat": 37.551102,
+            "lng": -121.993631
+        },
+        "address": "38509 Fremont Boulevard, Fremont, CA 94536, United States"
+    },
+    {
+        "name": "Hunan Chef Chinese Restaurant",
+        "location": {
+            "lat": 37.67738,
+            "lng": -121.875041
+        },
+        "address": "4285 Valley Avenue, Pleasanton, CA 94566, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Phil's Treasure Pot Restaurant",
+        "location": {
+            "lat": 37.453789,
+            "lng": -122.184566
+        },
+        "address": "625 Oak Grove Avenue #B, Menlo Park, CA 94025, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Crouching Tiger Restaurant",
+        "location": {
+            "lat": 37.486449,
+            "lng": -122.234315
+        },
+        "address": "2644 Broadway, Redwood City, CA 94063, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Jing-Jing Szechwan & Hunan Gourmet",
+        "location": {
+            "lat": 37.445076,
+            "lng": -122.163186
+        },
+        "address": "443 Emerson Street, Palo Alto, CA 94301, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Jasmine Chinese Food To Go",
+        "location": {
+            "lat": 37.702294,
+            "lng": -122.141827
+        },
+        "address": "14393 Washington Avenue, San Leandro, CA 94578, United States"
+    },
+    {
+        "name": "Silver Spoon Gourmet Cuisine",
+        "location": {
+            "lat": 37.694882,
+            "lng": -122.072848
+        },
+        "address": "3563 Castro Valley Boulevard, Castro Valley, CA 94546, United States"
+    },
+    {
+        "name": "Chef Chen",
+        "location": {
+            "lat": 37.490257,
+            "lng": -122.228939
+        },
+        "address": "820 Veterans Boulevard, Redwood City, CA 94063, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Peking Delight",
+        "location": {
+            "lat": 37.723355,
+            "lng": -121.94415
+        },
+        "address": "21001 San Ramon Valley Boulevard, San Ramon, CA 94583, United States"
+    },
+    {
+        "name": "Mayflower Seafood Restaurant",
+        "location": {
+            "lat": 37.588421,
+            "lng": -122.023173
+        },
+        "address": "34348 Alvarado-Niles Road, Union City, CA 94587, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Spicy Town",
+        "location": {
+            "lat": 37.501168,
+            "lng": -121.973814
+        },
+        "address": "43683 Boscell Road, Fremont, CA 94538, United States",
+        "price_level": 2
+    },
+    {
+        "name": "ASIAN BUFFET",
+        "location": {
+            "lat": 37.666604,
+            "lng": -122.078668
+        },
+        "address": "24100 Mission Boulevard, Hayward, CA 94544, United States"
+    },
+    {
+        "name": "China Paradise Restaurant",
+        "location": {
+            "lat": 37.705417,
+            "lng": -121.881772
+        },
+        "address": "4580 Dublin Boulevard, Dublin, CA 94568, United States"
+    },
+    {
+        "name": "B K's Kitchen",
+        "location": {
+            "lat": 37.546989,
+            "lng": -121.972639
+        },
+        "address": "3113 Stevenson Boulevard, Fremont, CA 94538, United States"
+    },
+    {
+        "name": "Luu New Tung Kee Noodle",
+        "location": {
+            "lat": 37.433506,
+            "lng": -121.897641
+        },
+        "address": "481 East Calaveras Boulevard, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "King Noodle",
+        "location": {
+            "lat": 37.543849,
+            "lng": -121.98697
+        },
+        "address": "39226 Argonaut Way, Fremont, CA 94538, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Yat Sing Restaurant",
+        "location": {
+            "lat": 37.478295,
+            "lng": -122.186436
+        },
+        "address": "3770 Florence Street, Redwood City, CA 94063, United States"
+    },
+    {
+        "name": "Taste Good Beijing Cuisine",
+        "location": {
+            "lat": 37.429393,
+            "lng": -121.907651
+        },
+        "address": "76 South Abel Street, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "Ming Tasty",
+        "location": {
+            "lat": 37.722522,
+            "lng": -122.15209
+        },
+        "address": "1652 East 14th Street, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "China Pack Kitchen",
+        "location": {
+            "lat": 37.790774,
+            "lng": -122.205358
+        },
+        "address": "3118 35th Avenue, Oakland, CA 94619, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.544216,
+            "lng": -121.983159
+        },
+        "address": "39429 Fremont Boulevard, Fremont, CA 94538, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.484974,
+            "lng": -122.232154
+        },
+        "address": "1023 El Camino Real, Redwood City, CA 94063, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Rose Garden Restaurant",
+        "location": {
+            "lat": 37.592587,
+            "lng": -122.038542
+        },
+        "address": "33348 Alvarado-Niles Road, Union City, CA 94587, United States"
+    },
+    {
+        "name": "Fu Lam Moon Restaurant",
+        "location": {
+            "lat": 37.520702,
+            "lng": -121.988389
+        },
+        "address": "40460 Albrae Street, Fremont, CA 94538, United States"
+    },
+    {
+        "name": "Chef Kwong's Chinese Restaurant",
+        "location": {
+            "lat": 37.671062,
+            "lng": -122.124393
+        },
+        "address": "754 Bockman Road, San Lorenzo, CA 94580, United States"
+    },
+    {
+        "name": "Pearl Garden Chinese Cuisine",
+        "location": {
+            "lat": 37.780863,
+            "lng": -121.969309
+        },
+        "address": "2101 Camino Ramon #100, San Ramon, CA 94583, United States",
+        "price_level": 2
+    },
+    {
+        "name": "King Kong Chinese Restaurant",
+        "location": {
+            "lat": 37.696154,
+            "lng": -122.08257
+        },
+        "address": "2966 Castro Valley Boulevard, Castro Valley, CA 94546, United States"
+    },
+    {
+        "name": "New Dragon Buffet",
+        "location": {
+            "lat": 37.703796,
+            "lng": -122.128707
+        },
+        "address": "15073 East 14th Street, San Leandro, CA 94578, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Kai Bistro",
+        "location": {
+            "lat": 37.732004,
+            "lng": -122.139868
+        },
+        "address": "1057 MacArthur Boulevard, San Leandro, CA 94577, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Asia Express",
+        "location": {
+            "lat": 37.588927,
+            "lng": -122.01863
+        },
+        "address": "1710 Decoto Road, Union City, CA 94587, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Jade Palace Restaurant",
+        "location": {
+            "lat": 37.538465,
+            "lng": -122.033569
+        },
+        "address": "36601 Newark Boulevard #64, Newark, CA 94560, United States"
+    },
+    {
+        "name": "Frannie's",
+        "location": {
+            "lat": 37.64933,
+            "lng": -122.074979
+        },
+        "address": "219 Harder Road, Hayward, CA 94544, United States"
+    },
+    {
+        "name": "MW Chinese Gourmet",
+        "location": {
+            "lat": 37.561896,
+            "lng": -122.0151
+        },
+        "address": "36659 Fremont Boulevard, Fremont, CA 94536, United States"
+    },
+    {
+        "name": "Suisha House",
+        "location": {
+            "lat": 37.486441,
+            "lng": -122.227231
+        },
+        "address": "2053 Broadway, Redwood City, CA 94063, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Rickshaw Chinese Restaurant",
+        "location": {
+            "lat": 37.486222,
+            "lng": -122.216877
+        },
+        "address": "1483 Broadway, Redwood City, CA 94063, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Little Namking",
+        "location": {
+            "lat": 37.729991,
+            "lng": -122.160054
+        },
+        "address": "695 East 14th Street, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Prince Dim Sum House",
+        "location": {
+            "lat": 37.70892,
+            "lng": -122.133388
+        },
+        "address": "14736 East 14th Street, San Leandro, CA 94578, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China Max",
+        "location": {
+            "lat": 37.69865,
+            "lng": -121.845029
+        },
+        "address": "3434 Livermore Outlets Drive, Livermore, CA 94551, United States"
+    },
+    {
+        "name": "A Thai Express",
+        "location": {
+            "lat": 37.521898,
+            "lng": -121.992928
+        },
+        "address": "39945 Balentine Drive, Newark, CA 94560, United States",
+        "price_level": 2
+    },
+    {
+        "name": "General Pot",
+        "location": {
+            "lat": 37.500208,
+            "lng": -121.973738
+        },
+        "address": "43767 Boscell Road, Fremont, CA 94538, United States"
+    },
+    {
+        "name": "China Gourmet",
+        "location": {
+            "lat": 37.783148,
+            "lng": -122.22164
+        },
+        "address": "3301 Foothill Boulevard, Oakland, CA 94601, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Chinese Gourmet Express",
+        "location": {
+            "lat": 37.651078,
+            "lng": -122.100947
+        },
+        "address": "1 Southland Mall Drive #509, Hayward, CA 94545, United States"
+    },
+    {
+        "name": "Chef's Experience China Bistro",
+        "location": {
+            "lat": 37.675768,
+            "lng": -122.081897
+        },
+        "address": "22436 Foothill Boulevard, Hayward, CA 94541, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China Chili Restaurant",
+        "location": {
+            "lat": 37.550215,
+            "lng": -121.983928
+        },
+        "address": "39116 State Street, Fremont, CA 94538, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Green Tea House Restaurant",
+        "location": {
+            "lat": 37.629797,
+            "lng": -122.048057
+        },
+        "address": "29615 Mission Boulevard, Hayward, CA 94544, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Ocean Garden",
+        "location": {
+            "lat": 37.700379,
+            "lng": -121.931879
+        },
+        "address": "6513 Regional Street, Dublin, CA 94568, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Incleine Chinese Cafe",
+        "location": {
+            "lat": 37.652115,
+            "lng": -122.109388
+        },
+        "address": "24036 Hesperian Boulevard, Hayward, CA 94545, United States"
+    },
+    {
+        "name": "Three Brothers From China",
+        "location": {
+            "lat": 37.781735,
+            "lng": -121.98007
+        },
+        "address": "2211 San Ramon Valley Boulevard, San Ramon, CA 94583, United States",
+        "price_level": 2
+    },
+    {
+        "name": "R & B Seafood Restaurant",
+        "location": {
+            "lat": 37.426357,
+            "lng": -122.147223
+        },
+        "address": "2209 El Camino Real, Palo Alto, CA 94306, United States"
+    },
+    {
+        "name": "Liou's House",
+        "location": {
+            "lat": 37.448168,
+            "lng": -121.888321
+        },
+        "address": "1245 Jacklin Road, Milpitas, CA 95035, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Eastern Winds",
+        "location": {
+            "lat": 37.682397,
+            "lng": -122.064628
+        },
+        "address": "22624 Vermont Street, Hayward, CA 94541, United States"
+    },
+    {
+        "name": "Sato Japanese Restaurant",
+        "location": {
+            "lat": 37.677163,
+            "lng": -121.897208
+        },
+        "address": "3015 Hopyard Road, Pleasanton, CA 94588, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China Garlic Restaurant",
+        "location": {
+            "lat": 37.734983,
+            "lng": -122.13322
+        },
+        "address": "3330 Revere Avenue, Oakland, CA 94605, United States"
+    },
+    {
+        "name": "Shao Mountain",
+        "location": {
+            "lat": 37.500207,
+            "lng": -121.973891
+        },
+        "address": "43749 Boscell Road, Fremont, CA 94538, United States"
+    },
+    {
+        "name": "Tins Teapot Bistro",
+        "location": {
+            "lat": 37.660858,
+            "lng": -122.085591
+        },
+        "address": "320 Jackson Street, Hayward, CA 94544, United States"
+    },
+    {
+        "name": "Tasty Garden",
+        "location": {
+            "lat": 37.692123,
+            "lng": -122.147631
+        },
+        "address": "983 Manor Boulevard, San Leandro, CA 94579, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Sunflower 2",
+        "location": {
+            "lat": 37.676376,
+            "lng": -122.079858
+        },
+        "address": "1213 A Street, Hayward, CA 94541, United States"
+    },
+    {
+        "name": "Chef Ming Chinese Food",
+        "location": {
+            "lat": 37.776072,
+            "lng": -122.22217
+        },
+        "address": "3542 International Boulevard, Oakland, CA 94601, United States"
+    },
+    {
+        "name": "Yat Sing Restaurant",
+        "location": {
+            "lat": 37.652384,
+            "lng": -121.879471
+        },
+        "address": "5400 Sunol Boulevard Suite 2, Pleasanton, CA 94566, United States"
+    },
+    {
+        "name": "Beijing Bowl",
+        "location": {
+            "lat": 37.701531,
+            "lng": -122.14037
+        },
+        "address": "14400 Washington Avenue, San Leandro, CA 94578, United States"
+    },
+    {
+        "name": "New Chin's Restaurant",
+        "location": {
+            "lat": 37.485569,
+            "lng": -122.226054
+        },
+        "address": "855 Main Street, Redwood City, CA 94063, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hunan Express",
+        "location": {
+            "lat": 37.675138,
+            "lng": -122.124572
+        },
+        "address": "17383 Hesperian Boulevard, San Lorenzo, CA 94580, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Lung Lung BBQ",
+        "location": {
+            "lat": 37.456731,
+            "lng": -121.910348
+        },
+        "address": "1828 North Milpitas Boulevard, Milpitas, CA 95035, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.705776,
+            "lng": -121.927645
+        },
+        "address": "6851 Amador Plaza Road, Dublin, CA 94568, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.652506,
+            "lng": -122.10427
+        },
+        "address": "24387 Southland Drive, Hayward, CA 94545, United States",
+        "price_level": 1
+    },
+    {
+        "name": "P.F. Chang's",
+        "location": {
+            "lat": 37.505303,
+            "lng": -121.970231
+        },
+        "address": "43316 Christy Street, Fremont, CA 94538, United States",
+        "price_level": 2
+    }
+]

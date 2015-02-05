@@ -1,0 +1,1485 @@
+[
+    {
+        "name": "The Kitchen",
+        "location": {
+            "lat": 37.600994,
+            "lng": -122.390895
+        },
+        "address": "279 El Camino Real, Millbrae, CA 94030, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Zen Peninsula",
+        "location": {
+            "lat": 37.607678,
+            "lng": -122.39836
+        },
+        "address": "1180 El Camino Real, Millbrae, CA 94030, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Grand Palace Restaurant",
+        "location": {
+            "lat": 37.655158,
+            "lng": -122.411568
+        },
+        "address": "359 Grand Avenue, South San Francisco, CA 94080, United States",
+        "price_level": 2
+    },
+    {
+        "name": "P.F. Chang's",
+        "location": {
+            "lat": 37.443708,
+            "lng": -122.168165
+        },
+        "address": "900 Stanford Shopping Center, Palo Alto, CA 94304, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Koi Palace",
+        "location": {
+            "lat": 37.666071,
+            "lng": -122.466646
+        },
+        "address": "365 Gellert Boulevard, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Yu Raku Japanese Chinese",
+        "location": {
+            "lat": 37.564043,
+            "lng": -122.327366
+        },
+        "address": "104 South El Camino Real, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "Silver Lake Seafood Restaurant",
+        "location": {
+            "lat": 37.545764,
+            "lng": -122.306635
+        },
+        "address": "2291 South El Camino Real, San Mateo, CA 94403, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Five A's Cafe",
+        "location": {
+            "lat": 37.594942,
+            "lng": -122.385868
+        },
+        "address": "1851 El Camino Real, Burlingame, CA 94010, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Golden Wok",
+        "location": {
+            "lat": 37.5708,
+            "lng": -122.310043
+        },
+        "address": "570 South Norfolk Street, San Mateo, CA 94401, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hot Wok Bistro",
+        "location": {
+            "lat": 37.585675,
+            "lng": -122.333104
+        },
+        "address": "1012 Howard Avenue, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "Beijing Buffet",
+        "location": {
+            "lat": 37.648426,
+            "lng": -122.404332
+        },
+        "address": "245 South Airport Boulevard, South San Francisco, CA 94080, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Su Hong to Go",
+        "location": {
+            "lat": 37.452287,
+            "lng": -122.182586
+        },
+        "address": "630 Menlo Avenue, Menlo Park, CA 94025, United States",
+        "price_level": 2
+    },
+    {
+        "name": "ABC Bakery and Cafe",
+        "location": {
+            "lat": 37.565021,
+            "lng": -122.322798
+        },
+        "address": "210 East 3rd Avenue, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "China Delight",
+        "location": {
+            "lat": 37.444971,
+            "lng": -122.162991
+        },
+        "address": "461 Emerson Street, Palo Alto, CA 94301, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Lotus Garden Restaurant",
+        "location": {
+            "lat": 37.54997,
+            "lng": -122.264298
+        },
+        "address": "1058 Shell Boulevard, Foster City, CA 94404, United States"
+    },
+    {
+        "name": "Mings Restaurant",
+        "location": {
+            "lat": 37.622472,
+            "lng": -122.411037
+        },
+        "address": "436 San Mateo Avenue, San Bruno, CA 94066, United States"
+    },
+    {
+        "name": "Gee Yin",
+        "location": {
+            "lat": 37.705942,
+            "lng": -122.461697
+        },
+        "address": "6288 Mission Street, Daly City, CA 94014, United States"
+    },
+    {
+        "name": "Shiok",
+        "location": {
+            "lat": 37.451937,
+            "lng": -122.185243
+        },
+        "address": "1137 Chestnut Street, Menlo Park, CA 94025, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Suisha House",
+        "location": {
+            "lat": 37.486441,
+            "lng": -122.227231
+        },
+        "address": "2053 Broadway, Redwood City, CA 94063, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Xiao Long Bao Kitchen",
+        "location": {
+            "lat": 37.65516,
+            "lng": -122.411002
+        },
+        "address": "331 Grand Avenue, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Cheung Hing BBQ Restaurant",
+        "location": {
+            "lat": 37.655078,
+            "lng": -122.41112
+        },
+        "address": "333 Grand Avenue, South San Francisco, CA 94080, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Cathay Kitchen",
+        "location": {
+            "lat": 37.54724,
+            "lng": -122.30901
+        },
+        "address": "2116 South El Camino Real, San Mateo, CA 94403, United States"
+    },
+    {
+        "name": "Ng's Kitchen",
+        "location": {
+            "lat": 37.707735,
+            "lng": -122.417234
+        },
+        "address": "2511 Geneva Avenue, Daly City, CA 94014, United States",
+        "price_level": 3
+    },
+    {
+        "name": "Dim Sum King",
+        "location": {
+            "lat": 37.681863,
+            "lng": -122.487356
+        },
+        "address": "99 Skyline Plaza, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Fortune Restaurant",
+        "location": {
+            "lat": 37.486451,
+            "lng": -122.227051
+        },
+        "address": "2039 Broadway, Redwood City, CA 94063, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China Spice",
+        "location": {
+            "lat": 37.655708,
+            "lng": -122.41246
+        },
+        "address": "398 Grand Avenue, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Kay Heung Restaurant II",
+        "location": {
+            "lat": 37.65091,
+            "lng": -122.492098
+        },
+        "address": "446 Manor Plaza, Pacifica, CA 94044, United States"
+    },
+    {
+        "name": "Town of Dumpling",
+        "location": {
+            "lat": 37.531112,
+            "lng": -122.287539
+        },
+        "address": "29 Laurie Meadows Drive, San Mateo, CA 94403, United States"
+    },
+    {
+        "name": "Fortune Star Chinese Cuisine",
+        "location": {
+            "lat": 37.546007,
+            "lng": -122.307728
+        },
+        "address": "2216 South El Camino Real, San Mateo, CA 94403, United States"
+    },
+    {
+        "name": "ME.N.U Asian Fusion Cuisine",
+        "location": {
+            "lat": 37.519716,
+            "lng": -122.276409
+        },
+        "address": "889 Ralston Avenue, Belmont, CA 94002, United States"
+    },
+    {
+        "name": "Root China Restaurant",
+        "location": {
+            "lat": 37.651273,
+            "lng": -122.430732
+        },
+        "address": "744 El Camino Real, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Chinese Gourmet Express",
+        "location": {
+            "lat": 37.669997,
+            "lng": -122.46908
+        },
+        "address": "80 Serramonte Center, Daly City, CA 94015, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.562733,
+            "lng": -122.280822
+        },
+        "address": "2011 Chess Drive, Foster City, CA 94404, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.700589,
+            "lng": -122.482583
+        },
+        "address": "701 Westlake Center, Daly City, CA 94015, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Cooking Papa",
+        "location": {
+            "lat": 37.544625,
+            "lng": -122.270415
+        },
+        "address": "949A Edgewater Boulevard, Foster City, CA 94404, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Crouching Tiger Restaurant",
+        "location": {
+            "lat": 37.486449,
+            "lng": -122.234315
+        },
+        "address": "2644 Broadway, Redwood City, CA 94063, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Shanghai Dumpling Shop",
+        "location": {
+            "lat": 37.602116,
+            "lng": -122.393582
+        },
+        "address": "455 Broadway, Millbrae, CA 94030, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Champagne Seafood Restaurant",
+        "location": {
+            "lat": 37.563204,
+            "lng": -122.323334
+        },
+        "address": "88 East 4th Avenue, San Mateo, CA 94401, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Little Hunan Restaurant",
+        "location": {
+            "lat": 37.52118,
+            "lng": -122.336476
+        },
+        "address": "120 De Anza Boulevard, San Mateo, CA 94402, United States"
+    },
+    {
+        "name": "King Wah Restaurant",
+        "location": {
+            "lat": 37.697068,
+            "lng": -122.484869
+        },
+        "address": "209 Southgate Avenue, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chef Chen",
+        "location": {
+            "lat": 37.490257,
+            "lng": -122.228939
+        },
+        "address": "820 Veterans Boulevard, Redwood City, CA 94063, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Sky Dragon Restaurant",
+        "location": {
+            "lat": 37.649621,
+            "lng": -122.430597
+        },
+        "address": "117 Southwood Center, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Kuya's Asian Cuisine",
+        "location": {
+            "lat": 37.623293,
+            "lng": -122.41101
+        },
+        "address": "460 San Mateo Avenue, San Bruno, CA 94066, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hot Wok Cafe",
+        "location": {
+            "lat": 37.54481,
+            "lng": -122.285027
+        },
+        "address": "2960 South Norfolk Street, San Mateo, CA 94403, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Tai Yuan Seafood Restaurant",
+        "location": {
+            "lat": 37.651293,
+            "lng": -122.468875
+        },
+        "address": "King Plaza Center, 950 King Drive #100, Daly City, CA 94015, United States"
+    },
+    {
+        "name": "Cheung Hing Restaurant",
+        "location": {
+            "lat": 37.600771,
+            "lng": -122.390488
+        },
+        "address": "245 El Camino Real, Millbrae, CA 94030, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Yat Sing Restaurant",
+        "location": {
+            "lat": 37.457868,
+            "lng": -122.228937
+        },
+        "address": "38 Woodside Plaza, Redwood City, CA 94061, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Toppings Juan",
+        "location": {
+            "lat": 37.649275,
+            "lng": -122.452944
+        },
+        "address": "2215 Gellert Boulevard, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Yucca de lac",
+        "location": {
+            "lat": 37.443237,
+            "lng": -122.172475
+        },
+        "address": "180 El Camino Real #700, Palo Alto, CA 94304, United States"
+    },
+    {
+        "name": "Chez Nicole Restaurant",
+        "location": {
+            "lat": 37.567113,
+            "lng": -122.319407
+        },
+        "address": "640 East 3rd Avenue, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "Shanghai Restaurant",
+        "location": {
+            "lat": 37.681707,
+            "lng": -122.487338
+        },
+        "address": "83 Skyline Plaza, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "100% Sweet Cafe",
+        "location": {
+            "lat": 37.564444,
+            "lng": -122.322377
+        },
+        "address": "205 East 4th Avenue, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "Once Upon Metro",
+        "location": {
+            "lat": 37.587119,
+            "lng": -122.364175
+        },
+        "address": "1136 Broadway, Burlingame, CA 94010, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Naru Bento",
+        "location": {
+            "lat": 37.565946,
+            "lng": -122.323414
+        },
+        "address": "220 2nd Avenue, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "Little Sheep Mongolian Hot Pot",
+        "location": {
+            "lat": 37.565654,
+            "lng": -122.32328
+        },
+        "address": "215 South Ellsworth Avenue, San Mateo, CA 94401, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Lai Lai Restaurant",
+        "location": {
+            "lat": 37.60123,
+            "lng": -122.391934
+        },
+        "address": "334 Broadway, Millbrae, CA 94030, United States"
+    },
+    {
+        "name": "Fortune Star Restaurant",
+        "location": {
+            "lat": 37.543251,
+            "lng": -122.30837
+        },
+        "address": "173 West 25th Avenue, San Mateo, CA 94403, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Raymond's Chinese Cuisine",
+        "location": {
+            "lat": 37.635772,
+            "lng": -122.491911
+        },
+        "address": "1709 Palmetto Avenue, Pacifica, CA 94044, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Mingalaba Restaurant",
+        "location": {
+            "lat": 37.578837,
+            "lng": -122.346467
+        },
+        "address": "1213 Burlingame Avenue, Burlingame, CA 94010, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Happy Dragon Chinese Restaurant",
+        "location": {
+            "lat": 37.50514,
+            "lng": -122.26166
+        },
+        "address": "626 Walnut Street, San Carlos, CA 94070, United States",
+        "price_level": 1
+    },
+    {
+        "name": "New Mandarin Garden",
+        "location": {
+            "lat": 37.651158,
+            "lng": -122.430679
+        },
+        "address": "774 El Camino Real, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Andy's Restaurant",
+        "location": {
+            "lat": 37.665364,
+            "lng": -122.451642
+        },
+        "address": "Hickey Boulevard, South San Francisco, CA 94080, United States",
+        "price_level": 2
+    },
+    {
+        "name": "King Chuan",
+        "location": {
+            "lat": 37.506727,
+            "lng": -122.261216
+        },
+        "address": "1188 San Carlos Avenue, San Carlos, CA 94070, United States"
+    },
+    {
+        "name": "Egg Roll King Chinese Restaurant",
+        "location": {
+            "lat": 37.699191,
+            "lng": -122.463715
+        },
+        "address": "6811 Mission Street, Daly City, CA 94014, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Innya Lake Restaurant",
+        "location": {
+            "lat": 37.626167,
+            "lng": -122.411116
+        },
+        "address": "586 San Mateo Avenue, San Bruno, CA 94066, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hong Kong Restaurant",
+        "location": {
+            "lat": 37.519438,
+            "lng": -122.276812
+        },
+        "address": "945 Ralston Avenue, Belmont, CA 94002, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Lily Cafe",
+        "location": {
+            "lat": 37.693067,
+            "lng": -122.471309
+        },
+        "address": "2408 Junipero Serra Boulevard, Daly City, CA 94015, United States"
+    },
+    {
+        "name": "Ono Hawaiian BBQ",
+        "location": {
+            "lat": 37.671996,
+            "lng": -122.464346
+        },
+        "address": "970 Serramonte Boulevard, Colma, CA 94014, United States"
+    },
+    {
+        "name": "Harbor Village Kitchen",
+        "location": {
+            "lat": 37.615067,
+            "lng": -122.38843
+        },
+        "address": "International Terminal, Main Hall, South McDonnell Road, San Francisco, CA 94128, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Sichuan Chong Qing Cuisine",
+        "location": {
+            "lat": 37.564901,
+            "lng": -122.324671
+        },
+        "address": "211 South San Mateo Drive, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "King Chuan Restaurant",
+        "location": {
+            "lat": 37.5069,
+            "lng": -122.261181
+        },
+        "address": "1188 San Carlos Avenue, San Carlos, CA 94070, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hong Woo",
+        "location": {
+            "lat": 37.627452,
+            "lng": -122.41151
+        },
+        "address": "649 San Mateo Avenue, San Bruno, CA 94066, United States"
+    },
+    {
+        "name": "China Spice",
+        "location": {
+            "lat": 37.655709,
+            "lng": -122.412461
+        },
+        "address": "398 Grand Avenue, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Chef Peking",
+        "location": {
+            "lat": 37.494205,
+            "lng": -122.23315
+        },
+        "address": "515 Veterans Boulevard, Redwood City, CA 94401, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Phil's Treasure Pot Restaurant",
+        "location": {
+            "lat": 37.453789,
+            "lng": -122.184566
+        },
+        "address": "625 Oak Grove Avenue #B, Menlo Park, CA 94025, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Red Hot Chilli Pepper",
+        "location": {
+            "lat": 37.50682,
+            "lng": -122.260528
+        },
+        "address": "1125 San Carlos Avenue, San Carlos, CA 94070, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Tina's Gourmet",
+        "location": {
+            "lat": 37.563605,
+            "lng": -122.325494
+        },
+        "address": "35 East 3rd Avenue, San Mateo, CA 94401, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Happy Cafe Restaurant",
+        "location": {
+            "lat": 37.565698,
+            "lng": -122.322824
+        },
+        "address": "250 South B Street, San Mateo, CA 94401, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Fey Restaurant",
+        "location": {
+            "lat": 37.455707,
+            "lng": -122.18674
+        },
+        "address": "1368 El Camino Real, Menlo Park, CA 94025, United States"
+    },
+    {
+        "name": "New Flower Drum Restaurant",
+        "location": {
+            "lat": 37.499966,
+            "lng": -122.253087
+        },
+        "address": "1109 Laurel Street, San Carlos, CA 94070, United States"
+    },
+    {
+        "name": "I Dumpling",
+        "location": {
+            "lat": 37.486456,
+            "lng": -122.234673
+        },
+        "address": "2660 Broadway, Redwood City, CA 94063, United States"
+    },
+    {
+        "name": "Dessert Republic",
+        "location": {
+            "lat": 37.567035,
+            "lng": -122.323349
+        },
+        "address": "138 Main Street, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "Au's Kitchen",
+        "location": {
+            "lat": 37.625854,
+            "lng": -122.426598
+        },
+        "address": "851 Cherry Avenue, San Bruno, CA 94066, United States"
+    },
+    {
+        "name": "Tai Wu Bakery & Cafe",
+        "location": {
+            "lat": 37.651544,
+            "lng": -122.468571
+        },
+        "address": "950 King Plz , Daly City, CA 94015, 94015, United States"
+    },
+    {
+        "name": "Hoa Ky Restaurant",
+        "location": {
+            "lat": 37.60192,
+            "lng": -122.393307
+        },
+        "address": "447 Broadway, Millbrae, CA 94030, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Mamonluk",
+        "location": {
+            "lat": 37.650101,
+            "lng": -122.454399
+        },
+        "address": "2025 Gellert Boulevard, Daly City, CA 94015, United States"
+    },
+    {
+        "name": "US Chinese Food",
+        "location": {
+            "lat": 37.47373,
+            "lng": -122.218471
+        },
+        "address": "2490 El Camino Real, Redwood City, CA 94063, United States"
+    },
+    {
+        "name": "Yat Sing Restaurant",
+        "location": {
+            "lat": 37.478295,
+            "lng": -122.186436
+        },
+        "address": "3770 Florence Street, Redwood City, CA 94063, United States"
+    },
+    {
+        "name": "China Bee",
+        "location": {
+            "lat": 37.567442,
+            "lng": -122.324286
+        },
+        "address": "31 South B Street, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "Yan's Garden Chinese Restaurant",
+        "location": {
+            "lat": 37.50287,
+            "lng": -122.256597
+        },
+        "address": "885 Laurel Street, San Carlos, CA 94070, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hon Lin Restaurant",
+        "location": {
+            "lat": 37.624707,
+            "lng": -122.410987
+        },
+        "address": "500 San Mateo Avenue, San Bruno, CA 94066, United States"
+    },
+    {
+        "name": "Spicy Empire",
+        "location": {
+            "lat": 37.543612,
+            "lng": -122.307069
+        },
+        "address": "105 West 25th Avenue, San Mateo, CA 94403, United States"
+    },
+    {
+        "name": "Sam's Chinese Kitchen",
+        "location": {
+            "lat": 37.660651,
+            "lng": -122.477291
+        },
+        "address": "793 Hickey Boulevard, Pacifica, CA 94044, United States"
+    },
+    {
+        "name": "Rickshaw Corner Restaurant",
+        "location": {
+            "lat": 37.545412,
+            "lng": -122.271586
+        },
+        "address": "901 Edgewater Boulevard, Foster City, CA 94404, United States"
+    },
+    {
+        "name": "Hung To Seafood Restaurant",
+        "location": {
+            "lat": 37.647579,
+            "lng": -122.419062
+        },
+        "address": "221 South Spruce Avenue, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "New Canton Restaurant",
+        "location": {
+            "lat": 37.499276,
+            "lng": -122.252746
+        },
+        "address": "1160 Laurel Street, San Carlos, CA 94070, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Blue Sky Cafe",
+        "location": {
+            "lat": 37.514491,
+            "lng": -122.268311
+        },
+        "address": "1625 El Camino Real, Belmont, CA 94002, United States"
+    },
+    {
+        "name": "Chu Kong Seafood Restaurant",
+        "location": {
+            "lat": 37.613208,
+            "lng": -122.404731
+        },
+        "address": "1661 El Camino Real, Millbrae, CA 94030, United States"
+    },
+    {
+        "name": "Rice N Roll",
+        "location": {
+            "lat": 37.646138,
+            "lng": -122.471851
+        },
+        "address": "683 Manor Drive, Pacifica, CA 94044, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Pacific Restaurant",
+        "location": {
+            "lat": 37.583094,
+            "lng": -122.475648
+        },
+        "address": "1045 Terra Nova Boulevard, Pacifica, CA 94044, United States"
+    },
+    {
+        "name": "My Happy Grill",
+        "location": {
+            "lat": 37.696656,
+            "lng": -122.164023
+        },
+        "address": "14630 Wicks Boulevard, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Chef Lee Chinese Fast Food",
+        "location": {
+            "lat": 37.469876,
+            "lng": -122.435941
+        },
+        "address": "80 Cabrillo Highway North, Half Moon Bay, CA 94019, United States"
+    },
+    {
+        "name": "FORTUNE STAR",
+        "location": {
+            "lat": 37.546026,
+            "lng": -122.307623
+        },
+        "address": "2216 South El Camino Real, San Mateo, CA 94403, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.484974,
+            "lng": -122.232154
+        },
+        "address": "1023 El Camino Real, Redwood City, CA 94063, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Jing-Jing Szechwan & Hunan Gourmet",
+        "location": {
+            "lat": 37.445076,
+            "lng": -122.163186
+        },
+        "address": "443 Emerson Street, Palo Alto, CA 94301, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.671629,
+            "lng": -122.47175
+        },
+        "address": "86 Serramonte Center #703, Daly City, CA 94015, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Ocean Palace",
+        "location": {
+            "lat": 37.627401,
+            "lng": -122.416547
+        },
+        "address": "711 Camino Plz, San Bruno, CA 94066, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Silver House",
+        "location": {
+            "lat": 37.545902,
+            "lng": -122.307562
+        },
+        "address": "2224 South El Camino Real, San Mateo, CA 94403, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Panda Dumpling",
+        "location": {
+            "lat": 37.499051,
+            "lng": -122.252025
+        },
+        "address": "1195 Laurel Street, San Carlos, CA 94070, United States"
+    },
+    {
+        "name": "Palm City Chinese Restaurant",
+        "location": {
+            "lat": 37.594157,
+            "lng": -122.504645
+        },
+        "address": "1328 Linda Mar Shopping Center, Pacifica, CA 94044, United States"
+    },
+    {
+        "name": "Dumpling Empire",
+        "location": {
+            "lat": 37.654447,
+            "lng": -122.408558
+        },
+        "address": "216 Cypress Avenue, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Amazing Wok",
+        "location": {
+            "lat": 37.494695,
+            "lng": -122.246808
+        },
+        "address": "1653 - 1655 Laurel st, San Carlos, CA 94070, United States"
+    },
+    {
+        "name": "Happy Chef",
+        "location": {
+            "lat": 37.593787,
+            "lng": -122.384283
+        },
+        "address": "1520 Trousdale Drive, Burlingame, CA 94010, United States"
+    },
+    {
+        "name": "New Kwok Wah",
+        "location": {
+            "lat": 37.530211,
+            "lng": -122.29034
+        },
+        "address": "32 42nd Avenue, San Mateo, CA 94403, United States"
+    },
+    {
+        "name": "Moonstar Restaurant",
+        "location": {
+            "lat": 37.664643,
+            "lng": -122.467546
+        },
+        "address": "383 Gellert Boulevard, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Jade Dragon Restaurant",
+        "location": {
+            "lat": 37.69389,
+            "lng": -122.471702
+        },
+        "address": "2368 Junipero Serra Boulevard, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Little Hunan Restaurant",
+        "location": {
+            "lat": 37.707062,
+            "lng": -122.457258
+        },
+        "address": "6127 Mission Street, Daly City, CA 94014, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Mr Chen Restaurant",
+        "location": {
+            "lat": 37.698246,
+            "lng": -122.464482
+        },
+        "address": "6860 Mission Street, Daly City, CA 94014, United States"
+    },
+    {
+        "name": "Ledu Restaurant",
+        "location": {
+            "lat": 37.661354,
+            "lng": -122.478878
+        },
+        "address": "749 Hickey Boulevard, Pacifica, CA 94044, United States"
+    },
+    {
+        "name": "Little Fire Pot",
+        "location": {
+            "lat": 37.699889,
+            "lng": -122.483814
+        },
+        "address": "271 Lake Merced Boulevard, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Tsai Mandarin",
+        "location": {
+            "lat": 37.588749,
+            "lng": -122.360787
+        },
+        "address": "1085 Rollins Road, Burlingame, CA 94010, United States"
+    },
+    {
+        "name": "Daily Restaurant",
+        "location": {
+            "lat": 37.709196,
+            "lng": -122.452064
+        },
+        "address": "5820 Mission Street, San Francisco, CA 94112, United States"
+    },
+    {
+        "name": "Rice N Roll",
+        "location": {
+            "lat": 37.646191,
+            "lng": -122.471842
+        },
+        "address": "683 Manor Drive, Pacifica, CA 94044, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.63713,
+            "lng": -122.417298
+        },
+        "address": "1150 El Camino Real, San Bruno, CA 94066, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.519696,
+            "lng": -122.275386
+        },
+        "address": "1050 El Camino Real, Belmont, CA 94002, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.424366,
+            "lng": -122.170845
+        },
+        "address": "459 Lagunita Drive, Stanford, CA 94305, United States",
+        "price_level": 1
+    },
+    {
+        "name": "5 Joy Restaurant",
+        "location": {
+            "lat": 37.563622,
+            "lng": -122.250309
+        },
+        "address": "1489 Beach Park Boulevard, Foster City, CA 94404, United States",
+        "price_level": 2
+    },
+    {
+        "name": "New Golden Wok Restaurant",
+        "location": {
+            "lat": 37.642178,
+            "lng": -122.426469
+        },
+        "address": "136 Hazelwood Drive, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Toa Yuen Restaurant",
+        "location": {
+            "lat": 37.533575,
+            "lng": -122.328531
+        },
+        "address": "3170 Campus Drive, San Mateo, CA 94403, United States"
+    },
+    {
+        "name": "Tai Wu Restaurant",
+        "location": {
+            "lat": 37.553914,
+            "lng": -122.256199
+        },
+        "address": "1080 Foster City Boulevard, Foster City, CA 94404, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Metro Restaurant",
+        "location": {
+            "lat": 37.587128,
+            "lng": -122.364194
+        },
+        "address": "1136 Broadway, Burlingame, CA 94010, United States"
+    },
+    {
+        "name": "Rickshaw Chinese Restaurant",
+        "location": {
+            "lat": 37.486222,
+            "lng": -122.216877
+        },
+        "address": "1483 Broadway, Redwood City, CA 94063, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Broadway Bistro",
+        "location": {
+            "lat": 37.601149,
+            "lng": -122.392335
+        },
+        "address": "349 Broadway, Millbrae, CA 94030, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Asian Pearl",
+        "location": {
+            "lat": 37.613379,
+            "lng": -122.404886
+        },
+        "address": "1671 El Camino Real, Millbrae, CA 94030, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Fung Lum",
+        "location": {
+            "lat": 37.616507,
+            "lng": -122.38888
+        },
+        "address": "International Terminal, Main Hall, San Francisco International Airport, San Francisco, CA 94128, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China Bistro",
+        "location": {
+            "lat": 37.563883,
+            "lng": -122.323356
+        },
+        "address": "111 East 4th Avenue, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "Na Na's Kitchen",
+        "location": {
+            "lat": 37.682297,
+            "lng": -122.403537
+        },
+        "address": "301 Visitacion Avenue, Brisbane, CA 94005, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.576814,
+            "lng": -122.349158
+        },
+        "address": "1453 Burlingame Avenue, Burlingame, CA 94010, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Country Cottage Cafe",
+        "location": {
+            "lat": 37.655222,
+            "lng": -122.409418
+        },
+        "address": "238 1/2 Grand Ave, South San Francisco, CA 94080, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Lee's Deli",
+        "location": {
+            "lat": 37.479839,
+            "lng": -122.176347
+        },
+        "address": "4200 Bohannon Drive, Menlo Park, CA 94025, United States"
+    },
+    {
+        "name": "J & A Restaurant",
+        "location": {
+            "lat": 37.709977,
+            "lng": -122.449806
+        },
+        "address": "5712 Mission Street, San Francisco, California - S.F. Bay Area 94112, United States"
+    },
+    {
+        "name": "Gin Mon Chinese Restaurant",
+        "location": {
+            "lat": 37.51086,
+            "lng": -122.293011
+        },
+        "address": "1079 Alameda De Las Pulgas, Belmont, CA 94002, United States"
+    },
+    {
+        "name": "Little Shanghai",
+        "location": {
+            "lat": 37.544999,
+            "lng": -122.305371
+        },
+        "address": "17 East 25th Avenue, San Mateo, CA 94403, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Fung Wong Chinese Restaurant",
+        "location": {
+            "lat": 37.663638,
+            "lng": -122.468609
+        },
+        "address": "427 Gellert Boulevard, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Fat Wong's Kitchen",
+        "location": {
+            "lat": 37.61569,
+            "lng": -122.406304
+        },
+        "address": "1780 El Camino Real, San Bruno, CA 94066, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Gourmet Village",
+        "location": {
+            "lat": 37.602158,
+            "lng": -122.393647
+        },
+        "address": "465 Broadway, Millbrae, CA 94030, United States"
+    },
+    {
+        "name": "Porridge King",
+        "location": {
+            "lat": 37.682582,
+            "lng": -122.487463
+        },
+        "address": "55 Skyline Plaza, Daly City, CA 94015, United States"
+    },
+    {
+        "name": "Hong Woo Chinese Restaurant",
+        "location": {
+            "lat": 37.627483,
+            "lng": -122.41142
+        },
+        "address": "649 San Mateo Avenue, San Bruno, CA 94066, United States"
+    },
+    {
+        "name": "Ly Luck Chinese Restaurant",
+        "location": {
+            "lat": 37.709298,
+            "lng": -122.451844
+        },
+        "address": "5820 Mission Street, San Francisco, CA 94112, United States"
+    },
+    {
+        "name": "Ng's cooking",
+        "location": {
+            "lat": 37.645094,
+            "lng": -122.451963
+        },
+        "address": "303 Westborough Boulevard, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Pacific Restaurant",
+        "location": {
+            "lat": 37.691299,
+            "lng": -122.471333
+        },
+        "address": "250 90th Street, Daly City, CA 94015, United States"
+    },
+    {
+        "name": "chan wei bistro",
+        "location": {
+            "lat": 37.554666,
+            "lng": -122.311002
+        },
+        "address": "152 South Boulevard, San Mateo, CA 94402, United States"
+    },
+    {
+        "name": "Little China Kitchen",
+        "location": {
+            "lat": 37.56535,
+            "lng": -122.32292
+        },
+        "address": "215 East 3rd Avenue, San Mateo, CA 94401, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Gau Poang Chinese Restaurant",
+        "location": {
+            "lat": 37.55574,
+            "lng": -122.318229
+        },
+        "address": "1208 South El Camino Real, San Mateo, CA 94402, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Tam's Cuisine of China",
+        "location": {
+            "lat": 37.649569,
+            "lng": -122.49219
+        },
+        "address": "494 Manor Plaza, Pacifica, CA 94044, United States",
+        "price_level": 2
+    },
+    {
+        "name": "LITTLE SICHUAN RESTAURANT",
+        "location": {
+            "lat": 37.563833,
+            "lng": -122.322456
+        },
+        "address": "168 East 4th Avenue, San Mateo, CA 94401, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Oceanic Restaurant",
+        "location": {
+            "lat": 37.544335,
+            "lng": -122.305207
+        },
+        "address": "2507 South El Camino Real, San Mateo, CA 94403, United States"
+    },
+    {
+        "name": "Uncle Chen Restaurant",
+        "location": {
+            "lat": 37.53006,
+            "lng": -122.290509
+        },
+        "address": "40 42nd Avenue, San Mateo, CA 94403, United States"
+    },
+    {
+        "name": "Everyday Beijing Restaurant",
+        "location": {
+            "lat": 37.563086,
+            "lng": -122.319482
+        },
+        "address": "637 South B Street, San Mateo, CA 94401, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Garden Fresh Chinese Vegan Cuisine",
+        "location": {
+            "lat": 37.445569,
+            "lng": -122.162915
+        },
+        "address": "460 Ramona Street, Palo Alto, CA 94301, United States"
+    },
+    {
+        "name": "China House",
+        "location": {
+            "lat": 37.466623,
+            "lng": -122.42855
+        },
+        "address": "Suite C, 20 Stone Pine Road, Half Moon Bay, CA 94019, United States"
+    },
+    {
+        "name": "The Noodle Shop",
+        "location": {
+            "lat": 37.543691,
+            "lng": -122.308406
+        },
+        "address": "164 West 25th Avenue, San Mateo, CA 94403, United States",
+        "price_level": 1
+    },
+    {
+        "name": "New Chin's Restaurant",
+        "location": {
+            "lat": 37.485569,
+            "lng": -122.226054
+        },
+        "address": "855 Main Street, Redwood City, CA 94063, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Wing Fat Chinese Restaurant",
+        "location": {
+            "lat": 37.566579,
+            "lng": -122.320556
+        },
+        "address": "500 East 3rd Avenue, San Mateo, CA 94401, United States"
+    },
+    {
+        "name": "Shanghai Winter Garden",
+        "location": {
+            "lat": 37.601105,
+            "lng": -122.391722
+        },
+        "address": "310 Broadway, Millbrae, CA 94030, United States"
+    },
+    {
+        "name": "Rice Garden",
+        "location": {
+            "lat": 37.500071,
+            "lng": -122.248856
+        },
+        "address": "1133 Old County Road, San Carlos, CA 94070, United States"
+    },
+    {
+        "name": "Uncle Wong Restaurant",
+        "location": {
+            "lat": 37.698775,
+            "lng": -122.175977
+        },
+        "address": "13780 Doolittle Drive, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Young Can Wok Chinese Bistro",
+        "location": {
+            "lat": 37.586257,
+            "lng": -122.364875
+        },
+        "address": "1200 Broadway, Burlingame, CA 94010, United States"
+    },
+    {
+        "name": "Lucky House Restaurant",
+        "location": {
+            "lat": 37.683424,
+            "lng": -122.403307
+        },
+        "address": "148 Visitacion Avenue, Brisbane, CA 94005, United States"
+    },
+    {
+        "name": "Fung Lum",
+        "location": {
+            "lat": 37.619677,
+            "lng": -122.387648
+        },
+        "address": "Terminal 3, Boarding Area F, San Francisco International Airport, San Francisco, CA 94128, United States"
+    },
+    {
+        "name": "Pacific Restaurant",
+        "location": {
+            "lat": 37.70542,
+            "lng": -122.462267
+        },
+        "address": "6356 Mission Street, Daly City, CA 94014, United States"
+    },
+    {
+        "name": "HD Chinese Yunnan Rice Noodle",
+        "location": {
+            "lat": 37.612893,
+            "lng": -122.404348
+        },
+        "address": "1625 El Camino Real, Millbrae, CA 94030, United States"
+    },
+    {
+        "name": "S F Oceanic Restaurant",
+        "location": {
+            "lat": 37.664775,
+            "lng": -122.487727
+        },
+        "address": "94 Clearview Drive, Daly City, CA 94015, United States"
+    },
+    {
+        "name": "Fung Lum",
+        "location": {
+            "lat": 37.615294,
+            "lng": -122.384164
+        },
+        "address": "Terminal 1, Boarding Area C, San Francisco International Airport, San Francisco, CA 94128, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.537315,
+            "lng": -122.300537
+        },
+        "address": "44 Hillsdale Mall, San Mateo, CA 94403, United States",
+        "price_level": 1
+    }
+]

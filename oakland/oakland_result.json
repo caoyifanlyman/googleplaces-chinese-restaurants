@@ -1,0 +1,1292 @@
+[
+    {
+        "name": "China Garlic Restaurant",
+        "location": {
+            "lat": 37.823383,
+            "lng": -122.256117
+        },
+        "address": "3766 Piedmont Avenue, Oakland, CA 94611, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Mandarin Garden Restaurant",
+        "location": {
+            "lat": 37.871686,
+            "lng": -122.267436
+        },
+        "address": "2025 Shattuck Square, Berkeley, CA 94704, United States",
+        "price_level": 2
+    },
+    {
+        "name": "LY Luck Restaurant",
+        "location": {
+            "lat": 37.801022,
+            "lng": -122.216089
+        },
+        "address": "3537 Fruitvale Avenue, Oakland, CA 94602, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chinese Express",
+        "location": {
+            "lat": 37.866681,
+            "lng": -122.259166
+        },
+        "address": "2488 Channing Way, Berkeley, CA 94704, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Buffet Fortuna",
+        "location": {
+            "lat": 37.800238,
+            "lng": -122.27341
+        },
+        "address": "800 Broadway, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Bay Fung Tong Tea House Restaurant",
+        "location": {
+            "lat": 37.807507,
+            "lng": -122.267367
+        },
+        "address": "1916 Franklin Street, Oakland, CA 94612, United States"
+    },
+    {
+        "name": "Chef Chao Restaurant",
+        "location": {
+            "lat": 37.861513,
+            "lng": -122.127594
+        },
+        "address": "343 Rheem Boulevard, Moraga, CA 94556, United States"
+    },
+    {
+        "name": "Taiwan Restaurant",
+        "location": {
+            "lat": 37.872315,
+            "lng": -122.268982
+        },
+        "address": "2071 University Avenue, Berkeley, CA 94704, United States"
+    },
+    {
+        "name": "Mandarin House",
+        "location": {
+            "lat": 37.868277,
+            "lng": -122.258108
+        },
+        "address": "2519 Durant Avenue, Berkeley, CA 94704, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Blessed Garden",
+        "location": {
+            "lat": 37.804884,
+            "lng": -122.270025
+        },
+        "address": "419 15th Street, Oakland, CA 94702, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chef's Wok",
+        "location": {
+            "lat": 37.777809,
+            "lng": -122.276827
+        },
+        "address": "1821 Webster Street, Alameda, CA 94501, United States"
+    },
+    {
+        "name": "Imperial Tea Court",
+        "location": {
+            "lat": 37.879856,
+            "lng": -122.26898
+        },
+        "address": "1511 Shattuck Avenue, Berkeley, CA 94709, United States"
+    },
+    {
+        "name": "China Pack Kitchen",
+        "location": {
+            "lat": 37.790774,
+            "lng": -122.205358
+        },
+        "address": "3118 35th Avenue, Oakland, CA 94619, United States"
+    },
+    {
+        "name": "Chefs Chinese Food",
+        "location": {
+            "lat": 37.899021,
+            "lng": -122.299246
+        },
+        "address": "233 El Cerrito Plaza, El Cerrito, CA 94530, United States"
+    },
+    {
+        "name": "Little Joe's Express",
+        "location": {
+            "lat": 37.769976,
+            "lng": -122.261761
+        },
+        "address": "1410 Encinal Avenue, Alameda, CA 94501, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Kai Bistro",
+        "location": {
+            "lat": 37.732004,
+            "lng": -122.139868
+        },
+        "address": "1057 MacArthur Boulevard, San Leandro, CA 94577, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Cafe 88",
+        "location": {
+            "lat": 37.800834,
+            "lng": -122.271549
+        },
+        "address": "388 9th Street #181, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Noodle Theory",
+        "location": {
+            "lat": 37.849296,
+            "lng": -122.252536
+        },
+        "address": "6099 Claremont Avenue, Oakland, CA 94618, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chopstick",
+        "location": {
+            "lat": 37.774722,
+            "lng": -122.276472
+        },
+        "address": "1540 Webster Street, Alameda, CA 94501, United States"
+    },
+    {
+        "name": "Yummy Guide",
+        "location": {
+            "lat": 37.801538,
+            "lng": -122.270231
+        },
+        "address": "358 11th Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Hunan Yuan Restaurant",
+        "location": {
+            "lat": 37.797842,
+            "lng": -122.182204
+        },
+        "address": "4100 Redwood Road #11, Oakland, CA 94619, United States"
+    },
+    {
+        "name": "Happy Garden",
+        "location": {
+            "lat": 37.789508,
+            "lng": -122.196539
+        },
+        "address": "4112 MacArthur Boulevard, Oakland, CA 94619, United States"
+    },
+    {
+        "name": "Quickly",
+        "location": {
+            "lat": 37.765228,
+            "lng": -122.24231
+        },
+        "address": "1431 Park Street, Alameda, CA 94501, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Chef Lin Top Cafe",
+        "location": {
+            "lat": 37.802336,
+            "lng": -122.270052
+        },
+        "address": "370 12th Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "China Star Express",
+        "location": {
+            "lat": 37.7995,
+            "lng": -122.272458
+        },
+        "address": "399 8th Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Kitchen of Alameda",
+        "location": {
+            "lat": 37.777067,
+            "lng": -122.276877
+        },
+        "address": "1727 Webster Street, Alameda, CA 94501, United States"
+    },
+    {
+        "name": "Yan's Restaurant",
+        "location": {
+            "lat": 37.880188,
+            "lng": -122.185688
+        },
+        "address": "1 Orinda Way, Orinda, CA 94563, United States"
+    },
+    {
+        "name": "Creasian",
+        "location": {
+            "lat": 37.729948,
+            "lng": -122.139138
+        },
+        "address": "1269 MacArthur Boulevard, San Leandro, CA 94577, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Imperial Garden",
+        "location": {
+            "lat": 37.74038,
+            "lng": -122.147234
+        },
+        "address": "310 MacArthur Boulevard, San Leandro, CA 94577, United States",
+        "price_level": 2
+    },
+    {
+        "name": "New Cherry Pit",
+        "location": {
+            "lat": 37.728724,
+            "lng": -122.16536
+        },
+        "address": "550 San Leandro Boulevard, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Lana's Chinese Food Express",
+        "location": {
+            "lat": 37.807542,
+            "lng": -122.268635
+        },
+        "address": "435 19th Street, Oakland, CA 94612, United States"
+    },
+    {
+        "name": "Fung Shui China & Hongknog USA",
+        "location": {
+            "lat": 37.767916,
+            "lng": -122.230055
+        },
+        "address": "2821 Marina Drive, Alameda, CA 94501, United States"
+    },
+    {
+        "name": "Dragon Gate",
+        "location": {
+            "lat": 37.796799,
+            "lng": -122.275528
+        },
+        "address": "300 Broadway, Oakland, CA 94607, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Golden Palace Chinese",
+        "location": {
+            "lat": 37.855739,
+            "lng": -122.124563
+        },
+        "address": "581 Moraga Road, Moraga, CA 94556, United States"
+    },
+    {
+        "name": "Kitchen of Alameda",
+        "location": {
+            "lat": 37.77709,
+            "lng": -122.276873
+        },
+        "address": "1727 Webster Street, Alameda, CA 94501, United States"
+    },
+    {
+        "name": "L & L Chinese Seafood Restaurant",
+        "location": {
+            "lat": 37.90306,
+            "lng": -122.303438
+        },
+        "address": "10140 San Pablo Avenue, El Cerrito, CA 94530, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.900612,
+            "lng": -122.300033
+        },
+        "address": "5020 El Cerrito Plaza, El Cerrito, CA 94530, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Fortune Cookie",
+        "location": {
+            "lat": 37.774726,
+            "lng": -122.276557
+        },
+        "address": "1540 Webster Street, Alameda, CA 94501, United States",
+        "price_level": 1
+    },
+    {
+        "name": "East Bay Saigon Seafood Harbor Restaurant",
+        "location": {
+            "lat": 37.900462,
+            "lng": -122.308906
+        },
+        "address": "3150 Pierce Street, Richmond, CA 94804, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chef Lau's Chinese Seafood",
+        "location": {
+            "lat": 37.798735,
+            "lng": -122.270459
+        },
+        "address": "301 8th Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "East Ocean Seafood Restaurant",
+        "location": {
+            "lat": 37.776711,
+            "lng": -122.276949
+        },
+        "address": "94501, 1713 Webster Street, Alameda, CA 94501, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Little Hunan",
+        "location": {
+            "lat": 37.870873,
+            "lng": -122.267939
+        },
+        "address": "125 Berkeley Way, Berkeley, CA 94704, United States"
+    },
+    {
+        "name": "Flower Lounge Restaurant",
+        "location": {
+            "lat": 37.800637,
+            "lng": -122.217905
+        },
+        "address": "2033 MacArthur Boulevard, Oakland, CA 94602, United States"
+    },
+    {
+        "name": "China Gourmet",
+        "location": {
+            "lat": 37.783148,
+            "lng": -122.22164
+        },
+        "address": "3301 Foothill Boulevard, Oakland, CA 94601, United States",
+        "price_level": 1
+    },
+    {
+        "name": "168 Restaurant",
+        "location": {
+            "lat": 37.899239,
+            "lng": -122.307664
+        },
+        "address": "Suite A109, 3288 Pierce Street, Richmond, CA 94804, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China Moon Restaurant",
+        "location": {
+            "lat": 37.860021,
+            "lng": -122.125844
+        },
+        "address": "380 Park Street, Moraga, CA 94556, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Oaks Corner",
+        "location": {
+            "lat": 37.832119,
+            "lng": -122.280474
+        },
+        "address": "4099 San Pablo Avenue, Emeryville, CA 94608, United States"
+    },
+    {
+        "name": "Shanghai Restaurant",
+        "location": {
+            "lat": 37.800332,
+            "lng": -122.270487
+        },
+        "address": "930 Webster Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "King Tsin Restaurant",
+        "location": {
+            "lat": 37.891407,
+            "lng": -122.282556
+        },
+        "address": "1699 Solano Avenue, Berkeley, CA 94707, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Blessed Garden Restaurant",
+        "location": {
+            "lat": 37.804905,
+            "lng": -122.269995
+        },
+        "address": "419 15th Street, Oakland, CA 94612, United States",
+        "price_level": 2
+    },
+    {
+        "name": "LAVA PIT Hawaiian Grill",
+        "location": {
+            "lat": 37.878394,
+            "lng": -122.18199
+        },
+        "address": "2 Orinda Theatre Square #142, Orinda, CA 94563, United States"
+    },
+    {
+        "name": "Panda Kitchen",
+        "location": {
+            "lat": 37.801626,
+            "lng": -122.263658
+        },
+        "address": "138 14th Street, Oakland, CA 94612, United States"
+    },
+    {
+        "name": "Osmanthus",
+        "location": {
+            "lat": 37.849105,
+            "lng": -122.251969
+        },
+        "address": "6048 College Avenue, Oakland, CA 94618, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.787445,
+            "lng": -122.281452
+        },
+        "address": "2630 5th St, Alameda, CA 94501, United States",
+        "price_level": 1
+    },
+    {
+        "name": "China Hut",
+        "location": {
+            "lat": 37.82799,
+            "lng": -122.256743
+        },
+        "address": "4021 Broadway, Oakland, CA 94611, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Sun Hong Kong",
+        "location": {
+            "lat": 37.867891,
+            "lng": -122.259541
+        },
+        "address": "2439 Durant Avenue, Berkeley, CA 94704, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Khanh Huong Chinese BBQ",
+        "location": {
+            "lat": 37.772783,
+            "lng": -122.254835
+        },
+        "address": "1707 Lincoln Avenue, Alameda, CA 94501, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Full Moon Seafood House",
+        "location": {
+            "lat": 37.800844,
+            "lng": -122.217495
+        },
+        "address": "2042 MacArthur Boulevard, Oakland, CA 94602, United States",
+        "price_level": 1
+    },
+    {
+        "name": "New Gold Medal",
+        "location": {
+            "lat": 37.799417,
+            "lng": -122.272228
+        },
+        "address": "389 8th Street, Oakland, CA 94607, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Happy Valley Chinese Restaurant",
+        "location": {
+            "lat": 37.864931,
+            "lng": -122.258559
+        },
+        "address": "2502 Telegraph Avenue, Berkeley, CA 94704, United States"
+    },
+    {
+        "name": "Legendary Palace",
+        "location": {
+            "lat": 37.799094,
+            "lng": -122.272681
+        },
+        "address": "708 Franklin Street, Oakland, CA 94607, United States",
+        "price_level": 2
+    },
+    {
+        "name": "China House Restaurant",
+        "location": {
+            "lat": 37.765364,
+            "lng": -122.242327
+        },
+        "address": "2328 Santa Clara Avenue, Alameda, CA 94501, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hunan Restaurant",
+        "location": {
+            "lat": 37.801785,
+            "lng": -122.270975
+        },
+        "address": "396 11th Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "New Ho Ho Restaurant",
+        "location": {
+            "lat": 37.83541,
+            "lng": -122.262985
+        },
+        "address": "4871 Telegraph Avenue, Oakland, CA 94609, United States"
+    },
+    {
+        "name": "Asia Palace Chinese Restaurant",
+        "location": {
+            "lat": 37.835414,
+            "lng": -122.127205
+        },
+        "address": "1460 Moraga Road, Moraga, CA 94556, United States"
+    },
+    {
+        "name": "Ichiban Sushi",
+        "location": {
+            "lat": 37.871788,
+            "lng": -122.267515
+        },
+        "address": "2017 Shattuck Avenue, Berkeley, CA 94704, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Sushi Sogo",
+        "location": {
+            "lat": 37.79075,
+            "lng": -122.219944
+        },
+        "address": "2708 Fruitvale Avenue, Oakland, CA 94601, United States"
+    },
+    {
+        "name": "Golden Grain Restaurant Inc",
+        "location": {
+            "lat": 37.889553,
+            "lng": -122.298401
+        },
+        "address": "917 San Pablo Avenue, Albany, CA 94706, United States"
+    },
+    {
+        "name": "New King Restaurant",
+        "location": {
+            "lat": 37.797956,
+            "lng": -122.256101
+        },
+        "address": "200 International Boulevard, Oakland, CA 94606, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.89162,
+            "lng": -122.123596
+        },
+        "address": "3608 Mount Diablo Boulevard, Lafayette, CA 94549, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Shen Hua",
+        "location": {
+            "lat": 37.857953,
+            "lng": -122.2534
+        },
+        "address": "2914 College Avenue, Berkeley, CA 94705, United States"
+    },
+    {
+        "name": "Great Wall Chinese Restaurant",
+        "location": {
+            "lat": 37.850079,
+            "lng": -122.252555
+        },
+        "address": "6247 College Avenue, Oakland, CA 94618, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Jade Palace Chinese Kitchen",
+        "location": {
+            "lat": 37.799166,
+            "lng": -122.212202
+        },
+        "address": "2531 MacArthur Boulevard, Oakland, CA 94602, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Kirin Cuisine of Northern China",
+        "location": {
+            "lat": 37.891443,
+            "lng": -122.280779
+        },
+        "address": "1767 Solano Avenue, Berkeley, CA 94707, United States",
+        "price_level": 2
+    },
+    {
+        "name": "King Yen Restaurant",
+        "location": {
+            "lat": 37.85625,
+            "lng": -122.252736
+        },
+        "address": "2995 College Avenue, Berkeley, CA 94705, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Gum Kuo Restaurant",
+        "location": {
+            "lat": 37.800731,
+            "lng": -122.27157
+        },
+        "address": "388 9th Street #182, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Chef Yu's Restaurant",
+        "location": {
+            "lat": 37.828879,
+            "lng": -122.264793
+        },
+        "address": "3919 Telegraph Avenue, Oakland, CA 94609, United States"
+    },
+    {
+        "name": "Hong Kong City Seafood Rstrnt",
+        "location": {
+            "lat": 37.764974,
+            "lng": -122.242425
+        },
+        "address": "1425 Park Street, Alameda, CA 94501, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Wing's Daily Kitchen",
+        "location": {
+            "lat": 37.783754,
+            "lng": -122.223345
+        },
+        "address": "3019 Foothill Boulevard, Oakland, CA 94601, United States"
+    },
+    {
+        "name": "Chef Ming Chinese Food",
+        "location": {
+            "lat": 37.776072,
+            "lng": -122.22217
+        },
+        "address": "3542 International Boulevard, Oakland, CA 94601, United States"
+    },
+    {
+        "name": "New Bamboo Kitchen",
+        "location": {
+            "lat": 37.769714,
+            "lng": -122.247816
+        },
+        "address": "2105 Lincoln Avenue, Alameda, CA 94501, United States"
+    },
+    {
+        "name": "Becky's Chinese Restaurant",
+        "location": {
+            "lat": 37.843677,
+            "lng": -122.25143
+        },
+        "address": "5620 College Avenue, Oakland, CA 94618, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Little Mandarin",
+        "location": {
+            "lat": 37.870712,
+            "lng": -122.267911
+        },
+        "address": "139 Berkeley Square, Berkeley, CA 94704, United States"
+    },
+    {
+        "name": "Little Namking",
+        "location": {
+            "lat": 37.729991,
+            "lng": -122.160054
+        },
+        "address": "695 East 14th Street, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Hong Kong Restaurant",
+        "location": {
+            "lat": 37.87137,
+            "lng": -122.268061
+        },
+        "address": "91 Shattuck Square, Berkeley, CA 94704, United States"
+    },
+    {
+        "name": "Restaurant Peony",
+        "location": {
+            "lat": 37.800796,
+            "lng": -122.271479
+        },
+        "address": "388 9th Street #288, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Daimo Chinese Restaurant",
+        "location": {
+            "lat": 37.899282,
+            "lng": -122.308499
+        },
+        "address": "3288 Pierce Street, Richmond, CA 94804, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Little Shin Shin",
+        "location": {
+            "lat": 37.828302,
+            "lng": -122.24965
+        },
+        "address": "4258 Piedmont Avenue, Oakland, CA 94611, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hong Kong Fast Food",
+        "location": {
+            "lat": 37.80313,
+            "lng": -122.281584
+        },
+        "address": "900 Market Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Yang Chow Restaurant",
+        "location": {
+            "lat": 37.812062,
+            "lng": -122.247842
+        },
+        "address": "3211 Grand Avenue, Oakland, CA 94610, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Joy Luck Restaurant",
+        "location": {
+            "lat": 37.798865,
+            "lng": -122.270834
+        },
+        "address": "327 8th Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "New Star Chinese Restaurant",
+        "location": {
+            "lat": 37.801117,
+            "lng": -122.275573
+        },
+        "address": "526 8th Street, Oakland, CA 94607, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Szechwan Chinese Restaurant",
+        "location": {
+            "lat": 37.885319,
+            "lng": -122.192311
+        },
+        "address": "79 Orinda Way, Orinda, CA 94563, United States"
+    },
+    {
+        "name": "Tea Fragrance House",
+        "location": {
+            "lat": 37.880401,
+            "lng": -122.295438
+        },
+        "address": "1301 San Pablo Avenue, Berkeley, CA 94702, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Holly's Mandarin",
+        "location": {
+            "lat": 37.826217,
+            "lng": -122.252291
+        },
+        "address": "4080 Piedmont Avenue, Oakland, CA 94611, United States"
+    },
+    {
+        "name": "Ying Kee Restaurant",
+        "location": {
+            "lat": 37.80012,
+            "lng": -122.271803
+        },
+        "address": "387 9th Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "EggRoll Kitchen",
+        "location": {
+            "lat": 37.769776,
+            "lng": -122.181727
+        },
+        "address": "6650 Bancroft Avenue, Oakland, CA 94605, United States"
+    },
+    {
+        "name": "Lucky Dragon Cafe",
+        "location": {
+            "lat": 37.760647,
+            "lng": -122.189431
+        },
+        "address": "6928 International Boulevard, Oakland, CA 94621, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.830754,
+            "lng": -122.280264
+        },
+        "address": "1151 40th Street, Emeryville, CA 94608, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Xing Yuan Chinese Restaurant",
+        "location": {
+            "lat": 37.783728,
+            "lng": -122.272923
+        },
+        "address": "839 Marina Village Parkway, Alameda, CA 94501, United States"
+    },
+    {
+        "name": "China Village Restaurant",
+        "location": {
+            "lat": 37.890863,
+            "lng": -122.291225
+        },
+        "address": "1335 Solano Avenue, Albany, CA 94706, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Wing Wah Chinese Restaurant",
+        "location": {
+            "lat": 37.797152,
+            "lng": -122.20478
+        },
+        "address": "3009 MacArthur Boulevard, Oakland, CA 94602, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Gim's Chinese Kitchen",
+        "location": {
+            "lat": 37.766685,
+            "lng": -122.241594
+        },
+        "address": "2322 Lincoln Avenue, Alameda, CA 94501, United States"
+    },
+    {
+        "name": "Ark Chinese Restaurant",
+        "location": {
+            "lat": 37.764512,
+            "lng": -122.242822
+        },
+        "address": "1405 Park Street, Alameda, CA 94501, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Shan Dong Restaurant",
+        "location": {
+            "lat": 37.800563,
+            "lng": -122.269885
+        },
+        "address": "328 10th Street, Oakland, CA 94607, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chang Luong Restaurant",
+        "location": {
+            "lat": 37.868026,
+            "lng": -122.258248
+        },
+        "address": "2517 Durant Avenue, Berkeley, CA 94704, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Century Buffet",
+        "location": {
+            "lat": 37.773279,
+            "lng": -122.216345
+        },
+        "address": "4108 International Boulevard, Oakland, CA 94601, United States"
+    },
+    {
+        "name": "Sichuan Fusion",
+        "location": {
+            "lat": 37.898728,
+            "lng": -122.306738
+        },
+        "address": "3288 Pierce St # B109, Richmond, CA 94804, United States"
+    },
+    {
+        "name": "P.F. Chang's",
+        "location": {
+            "lat": 37.831609,
+            "lng": -122.292403
+        },
+        "address": "5633 Bay Street, Emeryville, CA 94608, United States"
+    },
+    {
+        "name": "Best Taste Restaurant",
+        "location": {
+            "lat": 37.799961,
+            "lng": -122.272186
+        },
+        "address": "814 Franklin Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "China Garlic Restaurant",
+        "location": {
+            "lat": 37.734983,
+            "lng": -122.13322
+        },
+        "address": "3330 Revere Avenue, Oakland, CA 94605, United States"
+    },
+    {
+        "name": "Lee's Garden",
+        "location": {
+            "lat": 37.799557,
+            "lng": -122.249961
+        },
+        "address": "1852 Park Boulevard, Oakland, CA 94606, United States"
+    },
+    {
+        "name": "Classic Guilin Rice Noodles",
+        "location": {
+            "lat": 37.799616,
+            "lng": -122.268569
+        },
+        "address": "261 10th Street #A, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.740133,
+            "lng": -122.198621
+        },
+        "address": "8333 Oakport Street, Oakland, CA 94621, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hot Pot House",
+        "location": {
+            "lat": 37.80236,
+            "lng": -122.270082
+        },
+        "address": "370 12th Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Little Hong Kong Restaurant",
+        "location": {
+            "lat": 37.908939,
+            "lng": -122.30738
+        },
+        "address": "10443 San Pablo Avenue, El Cerrito, CA 94530, United States",
+        "price_level": 1
+    },
+    {
+        "name": "China Gourmet Express",
+        "location": {
+            "lat": 37.799506,
+            "lng": -122.216793
+        },
+        "address": "3407 Fruitvale Avenue, Oakland, CA 94602, United States"
+    },
+    {
+        "name": "Long Life Vegi House",
+        "location": {
+            "lat": 37.872489,
+            "lng": -122.26745
+        },
+        "address": "2129 University Avenue, Berkeley, CA 94704, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Dragon Village",
+        "location": {
+            "lat": 37.775005,
+            "lng": -122.277177
+        },
+        "address": "642 Lincoln Avenue, Alameda, CA 94501, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Pho Hoa Lao",
+        "location": {
+            "lat": 37.800317,
+            "lng": -122.270145
+        },
+        "address": "333 10th Street, Oakland, CA 94607, United States"
+    },
+    {
+        "name": "Fortune Restaurant",
+        "location": {
+            "lat": 37.800421,
+            "lng": -122.27042
+        },
+        "address": "940 Webster Street, Oakland, California - S.F. Bay Area 94607, United States",
+        "price_level": 2
+    },
+    {
+        "name": "New Big Daddy's Chinese Restaurant",
+        "location": {
+            "lat": 37.825443,
+            "lng": -122.265238
+        },
+        "address": "3700 Telegraph Avenue, Oakland, CA 94609, United States"
+    },
+    {
+        "name": "Chopstick Chinese Restaurant",
+        "location": {
+            "lat": 37.803368,
+            "lng": -122.26815
+        },
+        "address": "328 14th Street, Oakland, CA 94612, United States"
+    },
+    {
+        "name": "Kim's",
+        "location": {
+            "lat": 37.778307,
+            "lng": -122.22507
+        },
+        "address": "1438 Fruitvale Avenue, Oakland, CA 94601, United States",
+        "price_level": 1
+    },
+    {
+        "name": "The Pearl House",
+        "location": {
+            "lat": 37.891518,
+            "lng": -122.299108
+        },
+        "address": "809 San Pablo Avenue, Albany, CA 94706, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tasty Szechuan Restaurant",
+        "location": {
+            "lat": 37.769931,
+            "lng": -122.182177
+        },
+        "address": "2811 Havenscourt Boulevard, Oakland, CA 94605, United States"
+    },
+    {
+        "name": "Full House Kitchen",
+        "location": {
+            "lat": 37.801558,
+            "lng": -122.263692
+        },
+        "address": "138 14th Street, Oakland, CA 94612, United States"
+    },
+    {
+        "name": "Hong Kong East Ocean Seafood Restaurant",
+        "location": {
+            "lat": 37.837445,
+            "lng": -122.314807
+        },
+        "address": "3199 Powell Street, Emeryville, CA 94608, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Restaurant Chu",
+        "location": {
+            "lat": 37.839551,
+            "lng": -122.251111
+        },
+        "address": "5362 College Avenue, Oakland, CA 94618, United States",
+        "price_level": 2
+    },
+    {
+        "name": "King Dong Restaurant",
+        "location": {
+            "lat": 37.865254,
+            "lng": -122.267174
+        },
+        "address": "2429 Shattuck Avenue, Berkeley, CA 94704, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Renee's Place",
+        "location": {
+            "lat": 37.891036,
+            "lng": -122.288413
+        },
+        "address": "1477 Solano Avenue, Albany, CA 94706, United States"
+    },
+    {
+        "name": "Spices 3 Restaurants",
+        "location": {
+            "lat": 37.80214,
+            "lng": -122.270437
+        },
+        "address": "369 12th Street, Oakland, CA 94607, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Yummy Yummy Chinese Restaurant",
+        "location": {
+            "lat": 37.729339,
+            "lng": -122.159082
+        },
+        "address": "794 East 14th Street, San Leandro, CA 94577, United States"
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.803795,
+            "lng": -122.273093
+        },
+        "address": "500 12th Street B132, Oakland, CA 94607, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Da Lian Restaurant",
+        "location": {
+            "lat": 37.877054,
+            "lng": -122.269204
+        },
+        "address": "1674 Shattuck Avenue, Berkeley, CA 94709, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chen's Garden",
+        "location": {
+            "lat": 37.848631,
+            "lng": -122.270682
+        },
+        "address": "1818 Alcatraz Avenue, Berkeley, CA 94703, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tay Ho Restaurant",
+        "location": {
+            "lat": 37.80212,
+            "lng": -122.269179
+        },
+        "address": "344 12th Street, Oakland, CA 94607, United States",
+        "price_level": 2
+    },
+    {
+        "name": "On Luck Food To Go",
+        "location": {
+            "lat": 37.786929,
+            "lng": -122.237678
+        },
+        "address": "2045 Foothill Boulevard, Oakland, CA 94606, United States"
+    },
+    {
+        "name": "Asian Pearl Seafood Restaurant",
+        "location": {
+            "lat": 37.898405,
+            "lng": -122.307615
+        },
+        "address": "3288 Pierce Street, Suite A-118, Richmond, CA 94804, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Happy Valley Restaurant",
+        "location": {
+            "lat": 37.795856,
+            "lng": -122.255296
+        },
+        "address": "400 East 12th Street, Oakland, CA 94606, United States"
+    },
+    {
+        "name": "China Villa Restaurant",
+        "location": {
+            "lat": 37.7377,
+            "lng": -122.240699
+        },
+        "address": "891 Island Drive, Alameda, CA 94502, United States"
+    },
+    {
+        "name": "Lilly's Restaurant",
+        "location": {
+            "lat": 37.881692,
+            "lng": -122.281626
+        },
+        "address": "1580 Hopkins Street, Berkeley, CA 94707, United States"
+    },
+    {
+        "name": "Tai San",
+        "location": {
+            "lat": 37.859059,
+            "lng": -122.259026
+        },
+        "address": "2811 Telegraph Avenue, Berkeley, CA 94705, United States"
+    },
+    {
+        "name": "Le Tasty Chinese Restaurant",
+        "location": {
+            "lat": 37.804595,
+            "lng": -122.26987
+        },
+        "address": "1437 Franklin Street, Oakland, CA 94612, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Fortune Cookie",
+        "location": {
+            "lat": 37.806824,
+            "lng": -122.300657
+        },
+        "address": "1698 7th Street, Oakland, CA 94607, United States",
+        "price_level": 1
+    },
+    {
+        "name": "China Gourmet",
+        "location": {
+            "lat": 37.757148,
+            "lng": -122.252842
+        },
+        "address": "2210 S Shore Ctr # H, Alameda, CA 94501, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Genghis Khan Kitchen",
+        "location": {
+            "lat": 37.766258,
+            "lng": -122.240836
+        },
+        "address": "1540 Park Street, Alameda, CA 94501, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Xing Yuan",
+        "location": {
+            "lat": 37.783697,
+            "lng": -122.273211
+        },
+        "address": "839 Marina Village Parkway, Alameda, CA 94501, United States",
+        "price_level": 2
+    },
+    {
+        "name": "T C Garden Restaurant",
+        "location": {
+            "lat": 37.875345,
+            "lng": -122.259731
+        },
+        "address": "2507 Hearst Avenue, Berkeley, CA 94709, United States"
+    },
+    {
+        "name": "Mei Mei Restaurant",
+        "location": {
+            "lat": 37.763937,
+            "lng": -122.239378
+        },
+        "address": "2522 Santa Clara Avenue, Alameda, CA 94501, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Great China",
+        "location": {
+            "lat": 37.867656,
+            "lng": -122.266178
+        },
+        "address": "2190 Bancroft Way, Berkeley, CA 94704, United States"
+    },
+    {
+        "name": "Kapok Seafood Restaurants",
+        "location": {
+            "lat": 37.773704,
+            "lng": -122.276963
+        },
+        "address": "1511 Webster Street, Alameda, CA 94501, United States"
+    }
+]
