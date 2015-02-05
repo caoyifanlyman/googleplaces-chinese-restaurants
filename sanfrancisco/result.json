@@ -1,0 +1,1764 @@
+[
+    {
+        "name": "Tsing Tao",
+        "location": {
+            "lat": 37.781526,
+            "lng": -122.492604
+        },
+        "address": "3107 Clement Street, San Francisco, CA 94121, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Shiso Chinese and Japanese Restaurant",
+        "location": {
+            "lat": 37.741536,
+            "lng": -122.42277
+        },
+        "address": "3452 Mission Street, San Francisco, CA 94110, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Big Lantern",
+        "location": {
+            "lat": 37.764923,
+            "lng": -122.423469
+        },
+        "address": "3170 16th Street, San Francisco, CA 94103, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Z & Y Restaurant",
+        "location": {
+            "lat": 37.795932,
+            "lng": -122.406018
+        },
+        "address": "655 Jackson Street, San Francisco, CA 94133, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Grand Palace Restaurant",
+        "location": {
+            "lat": 37.655158,
+            "lng": -122.411568
+        },
+        "address": "359 Grand Avenue, South San Francisco, CA 94080, United States",
+        "price_level": 2
+    },
+    {
+        "name": "R&G Lounge",
+        "location": {
+            "lat": 37.794097,
+            "lng": -122.404903
+        },
+        "address": "631 Kearny Street, San Francisco, CA 94108, United States",
+        "price_level": 2
+    },
+    {
+        "name": "7 Mission Restaurant",
+        "location": {
+            "lat": 37.778458,
+            "lng": -122.410296
+        },
+        "address": "150 7th Street, San Francisco, CA 94103, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Wild Pepper",
+        "location": {
+            "lat": 37.748758,
+            "lng": -122.421389
+        },
+        "address": "3601 26th Street, San Francisco, CA 94110, United States",
+        "price_level": 2
+    },
+    {
+        "name": "City Chopsticks",
+        "location": {
+            "lat": 37.789787,
+            "lng": -122.41175
+        },
+        "address": "883 Bush Street, San Francisco, CA 94108, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Fung Wong Chinese Restaurant",
+        "location": {
+            "lat": 37.663638,
+            "lng": -122.468609
+        },
+        "address": "427 Gellert Boulevard, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Eliza's",
+        "location": {
+            "lat": 37.787745,
+            "lng": -122.441594
+        },
+        "address": "2877 California, San Francisco, CA 94115, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Tsing Tao Chinese Restaurant",
+        "location": {
+            "lat": 37.737013,
+            "lng": -122.469767
+        },
+        "address": "361 West Portal Avenue, San Francisco, CA 94127, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Jai Yun Restaurant",
+        "location": {
+            "lat": 37.794636,
+            "lng": -122.404455
+        },
+        "address": "680 Clay Street, San Francisco, CA 94111, United States",
+        "price_level": 3
+    },
+    {
+        "name": "Dak Win Restaurant",
+        "location": {
+            "lat": 37.751533,
+            "lng": -122.418154
+        },
+        "address": "2845 Mission Street, San Francisco, CA 94110, United States",
+        "price_level": 2
+    },
+    {
+        "name": "House of Hunan Restaurant",
+        "location": {
+            "lat": 37.782612,
+            "lng": -122.388965
+        },
+        "address": "2 Townsend Street, San Francisco, CA 94107, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Peninsula Seafood Restaurant",
+        "location": {
+            "lat": 37.795942,
+            "lng": -122.405806
+        },
+        "address": "641 Jackson Street, San Francisco, CA 94133, United States",
+        "price_level": 2
+    },
+    {
+        "name": "New Ming's Restaurant",
+        "location": {
+            "lat": 37.787036,
+            "lng": -122.400542
+        },
+        "address": "641 Mission Street, San Francisco, CA 94105, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Yan's Kitchen",
+        "location": {
+            "lat": 37.79609,
+            "lng": -122.404473
+        },
+        "address": "57 Columbus Avenue, San Francisco, CA 94111, United States"
+    },
+    {
+        "name": "Cathay House",
+        "location": {
+            "lat": 37.792579,
+            "lng": -122.40623
+        },
+        "address": "718 California, San Francisco, CA 94108, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Golden City Inn Chinese Cuisine",
+        "location": {
+            "lat": 37.731905,
+            "lng": -122.391472
+        },
+        "address": "5131 3rd Street, San Francisco, CA 94124, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Enjoy Vegetarian Restaurant",
+        "location": {
+            "lat": 37.795841,
+            "lng": -122.405254
+        },
+        "address": "839 Kearny Street, San Francisco, CA 94108, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Golden China",
+        "location": {
+            "lat": 37.724819,
+            "lng": -122.459375
+        },
+        "address": "1612 Ocean Avenue, San Francisco, CA 94112, United States"
+    },
+    {
+        "name": "New Woey Loey Goey Restaurant",
+        "location": {
+            "lat": 37.795953,
+            "lng": -122.406515
+        },
+        "address": "699 Jackson Street, San Francisco, CA 94133, United States"
+    },
+    {
+        "name": "Emperor's Kitchen",
+        "location": {
+            "lat": 37.781832,
+            "lng": -122.417038
+        },
+        "address": "418 Larkin Street, San Francisco, CA 94102, United States"
+    },
+    {
+        "name": "Sweet Delight Bakery",
+        "location": {
+            "lat": 37.726217,
+            "lng": -122.434006
+        },
+        "address": "4476 Mission Street, San Francisco, CA 94112, United States"
+    },
+    {
+        "name": "Hang Fook Bakery & Restaurant",
+        "location": {
+            "lat": 37.723836,
+            "lng": -122.456672
+        },
+        "address": "1325 Ocean Avenue, San Francisco, CA 94112, United States"
+    },
+    {
+        "name": "China First Restaurant",
+        "location": {
+            "lat": 37.783184,
+            "lng": -122.463029
+        },
+        "address": "336 Clement Street, San Francisco, CA 94118, United States"
+    },
+    {
+        "name": "Mariposa Cafeteria",
+        "location": {
+            "lat": 37.751726,
+            "lng": -122.388383
+        },
+        "address": "1599 Tennessee Street, San Francisco, CA 94107, United States"
+    },
+    {
+        "name": "Imperial Tea Court",
+        "location": {
+            "lat": 37.795168,
+            "lng": -122.393115
+        },
+        "address": "1 Sausalito - San Francisco Ferry Building, San Francisco, CA 94111, United States"
+    },
+    {
+        "name": "Old Shanghai Restaurant",
+        "location": {
+            "lat": 37.780317,
+            "lng": -122.474824
+        },
+        "address": "5145 Geary Boulevard, San Francisco, CA 94118, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Magic Wok",
+        "location": {
+            "lat": 37.776325,
+            "lng": -122.415219
+        },
+        "address": "84 9th Street, San Francisco, CA 94103, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Happy Garden Restaurant",
+        "location": {
+            "lat": 37.782639,
+            "lng": -122.468019
+        },
+        "address": "815 Clement Street, San Francisco, CA 94118, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Andy's Restaurant",
+        "location": {
+            "lat": 37.665364,
+            "lng": -122.451642
+        },
+        "address": "Hickey Boulevard, South San Francisco, CA 94080, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Mama Ji's",
+        "location": {
+            "lat": 37.760828,
+            "lng": -122.438659
+        },
+        "address": "4416 18th Street, San Francisco, CA 94114, United States"
+    },
+    {
+        "name": "Hunan Home's Restaurant",
+        "location": {
+            "lat": 37.796281,
+            "lng": -122.405666
+        },
+        "address": "622 Jackson Street, San Francisco, CA 94133, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Old Mandarin",
+        "location": {
+            "lat": 37.73842,
+            "lng": -122.500703
+        },
+        "address": "3132 Vicente Street, San Francisco, CA 94116, United States",
+        "price_level": 1
+    },
+    {
+        "name": "B & M Mei Sing Restaurant",
+        "location": {
+            "lat": 37.788438,
+            "lng": -122.400562
+        },
+        "address": "62 2nd Street, San Francisco, CA 94105, United States",
+        "price_level": 2
+    },
+    {
+        "name": "All Season Restaurant",
+        "location": {
+            "lat": 37.743698,
+            "lng": -122.439374
+        },
+        "address": "5238 Diamond Heights Boulevard, San Francisco, CA 94131, United States",
+        "price_level": 1
+    },
+    {
+        "name": "SO",
+        "location": {
+            "lat": 37.772394,
+            "lng": -122.407504
+        },
+        "address": "1010 Bryant Street, San Francisco, CA 94103, United States",
+        "price_level": 1
+    },
+    {
+        "name": "New Sun Hong Kong Restaurant",
+        "location": {
+            "lat": 37.798032,
+            "lng": -122.407253
+        },
+        "address": "606 Broadway Street, San Francisco, CA 94133, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Jo Jo's Cafe",
+        "location": {
+            "lat": 37.724354,
+            "lng": -122.458881
+        },
+        "address": "1537 Ocean Avenue, San Francisco, CA 94112, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Yamo",
+        "location": {
+            "lat": 37.761978,
+            "lng": -122.4197
+        },
+        "address": "3406 18th Street, San Francisco, CA 94110, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Capital Restaurant",
+        "location": {
+            "lat": 37.793992,
+            "lng": -122.407058
+        },
+        "address": "839 Clay Street, San Francisco, CA 94108, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Crazy Pepper",
+        "location": {
+            "lat": 37.720881,
+            "lng": -122.44619
+        },
+        "address": "2257 San Jose Avenue, San Francisco, CA 94112, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hong Sing Restaurant",
+        "location": {
+            "lat": 37.734706,
+            "lng": -122.434005
+        },
+        "address": "2794 Diamond Street, San Francisco, CA 94131, United States"
+    },
+    {
+        "name": "House of Chen",
+        "location": {
+            "lat": 37.763561,
+            "lng": -122.432806
+        },
+        "address": "335 Noe Street, San Francisco, CA 94114, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tong Palace Seafood Restaurant",
+        "location": {
+            "lat": 37.782555,
+            "lng": -122.46927
+        },
+        "address": "933 Clement Street, San Francisco, CA 94118, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Shanghai Dumpling King",
+        "location": {
+            "lat": 37.731747,
+            "lng": -122.451027
+        },
+        "address": "696 Monterey Boulevard, San Francisco, CA 94127, United States"
+    },
+    {
+        "name": "Tung Sing Restaurant",
+        "location": {
+            "lat": 37.751275,
+            "lng": -122.432314
+        },
+        "address": "4015 24th Street, San Francisco, CA 94114, United States"
+    },
+    {
+        "name": "Made in China Restaurant",
+        "location": {
+            "lat": 37.742952,
+            "lng": -122.477404
+        },
+        "address": "1033 Taraval Street, San Francisco, CA 94116, United States"
+    },
+    {
+        "name": "Ming's Diner",
+        "location": {
+            "lat": 37.742252,
+            "lng": -122.489045
+        },
+        "address": "2129 Taraval Street, San Francisco, CA 94116, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Snow Garden",
+        "location": {
+            "lat": 37.793597,
+            "lng": -122.406031
+        },
+        "address": "712 Grant Avenue, San Francisco, California - S.F. Bay Area 94108, United States"
+    },
+    {
+        "name": "Ling Ling Cuisine Restaurant",
+        "location": {
+            "lat": 37.730064,
+            "lng": -122.404444
+        },
+        "address": "2517 San Bruno Avenue, San Francisco, CA 94134, United States"
+    },
+    {
+        "name": "Joe's Excellent Chinese Cuisine",
+        "location": {
+            "lat": 37.725301,
+            "lng": -122.462817
+        },
+        "address": "1919 Ocean Avenue, San Francisco, CA 94127, United States",
+        "price_level": 2
+    },
+    {
+        "name": "M.Y. China",
+        "location": {
+            "lat": 37.784232,
+            "lng": -122.406603
+        },
+        "address": "845 Market Street, San Francisco, CA 94103, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Oriental Restaurant",
+        "location": {
+            "lat": 37.780828,
+            "lng": -122.411428
+        },
+        "address": "1063 Market Street, San Francisco, CA 94102, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Mission Hunan",
+        "location": {
+            "lat": 37.765209,
+            "lng": -122.418908
+        },
+        "address": "2960 16th Street, San Francisco, CA 94103, United States"
+    },
+    {
+        "name": "Ken's Kitchen",
+        "location": {
+            "lat": 37.783276,
+            "lng": -122.419026
+        },
+        "address": "700 Polk Street, San Francisco, CA 94109, United States",
+        "price_level": 1
+    },
+    {
+        "name": "San Tung",
+        "location": {
+            "lat": 37.763748,
+            "lng": -122.469022
+        },
+        "address": "1031 Irving Street, San Francisco, CA 94122, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Ho's Chinese Delivery",
+        "location": {
+            "lat": 37.797489,
+            "lng": -122.423397
+        },
+        "address": "2360 Van Ness Avenue, San Francisco, CA 94109, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Ah Lin Restaurant",
+        "location": {
+            "lat": 37.788413,
+            "lng": -122.424272
+        },
+        "address": "1634 Bush Street, San Francisco, CA 94109, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hakka Restaurant",
+        "location": {
+            "lat": 37.773267,
+            "lng": -122.50593
+        },
+        "address": "4401 Cabrillo Street, San Francisco, CA 94121, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Dragon Well",
+        "location": {
+            "lat": 37.800679,
+            "lng": -122.43863
+        },
+        "address": "2142 Chestnut Street, San Francisco, CA 94123, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Oriental Pearl Restaurant",
+        "location": {
+            "lat": 37.794456,
+            "lng": -122.405819
+        },
+        "address": "760 Clay Street, San Francisco, CA 94108, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Good Luck Dim Sum",
+        "location": {
+            "lat": 37.783021,
+            "lng": -122.467208
+        },
+        "address": "736 Clement Street, San Francisco, CA 94118, United States",
+        "price_level": 1
+    },
+    {
+        "name": "King Lee Restaurant",
+        "location": {
+            "lat": 37.78271,
+            "lng": -122.432339
+        },
+        "address": "1426 Fillmore Street, San Francisco, CA 94115, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Jade Cafe",
+        "location": {
+            "lat": 37.78808,
+            "lng": -122.403928
+        },
+        "address": "18 Geary Street, San Francisco, CA 94108, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Kim Thanh Restaurant",
+        "location": {
+            "lat": 37.786608,
+            "lng": -122.413341
+        },
+        "address": "607 Geary Street, San Francisco, CA 94102, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tsing Tao 4",
+        "location": {
+            "lat": 37.723296,
+            "lng": -122.435523
+        },
+        "address": "4683 Mission Street, San Francisco, CA 94112, United States"
+    },
+    {
+        "name": "Yank Sing",
+        "location": {
+            "lat": 37.78975,
+            "lng": -122.399249
+        },
+        "address": "49 Stevenson Street, San Francisco, CA 94105, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Ton Kiang Restaurant",
+        "location": {
+            "lat": 37.779883,
+            "lng": -122.481975
+        },
+        "address": "5821 Geary Boulevard, San Francisco, CA 94121, United States"
+    },
+    {
+        "name": "Peking Restaurant",
+        "location": {
+            "lat": 37.753994,
+            "lng": -122.478365
+        },
+        "address": "1375 Noriega Street, San Francisco, CA 94122, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Tian Sing Chinese Restaurant",
+        "location": {
+            "lat": 37.785783,
+            "lng": -122.408612
+        },
+        "address": "138 Cyril Magnin Street, San Francisco, CA 94102, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Yank Sing",
+        "location": {
+            "lat": 37.792498,
+            "lng": -122.393139
+        },
+        "address": "101 Spear Street, San Francisco, CA 94105, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Spices II",
+        "location": {
+            "lat": 37.783244,
+            "lng": -122.464614
+        },
+        "address": "291 6th Avenue, San Francisco, CA 94118, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Kirin Chinese Restaurant",
+        "location": {
+            "lat": 37.779828,
+            "lng": -122.485286
+        },
+        "address": "6135 Geary Boulevard, San Francisco, CA 94121, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hunan Empire Restaurant",
+        "location": {
+            "lat": 37.797184,
+            "lng": -122.432486
+        },
+        "address": "2001 Union Street, San Francisco, CA 94123, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Chang's Kitchen",
+        "location": {
+            "lat": 37.764133,
+            "lng": -122.469087
+        },
+        "address": "1030 Irving Street, San Francisco, CA 94122, United States",
+        "price_level": 1
+    },
+    {
+        "name": "San Wang Restaurant",
+        "location": {
+            "lat": 37.785951,
+            "lng": -122.429508
+        },
+        "address": "1680 Post Street, San Francisco, CA 94115, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tenglong Chinese restaurant",
+        "location": {
+            "lat": 37.783302,
+            "lng": -122.461516
+        },
+        "address": "208 Clement Street, San Francisco, CA 94118, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Gee Yin",
+        "location": {
+            "lat": 37.705942,
+            "lng": -122.461697
+        },
+        "address": "6288 Mission Street, Daly City, CA 94014, United States"
+    },
+    {
+        "name": "Heung Yuen Restaurant",
+        "location": {
+            "lat": 37.75523,
+            "lng": -122.420467
+        },
+        "address": "3279 22nd Street, San Francisco, CA 94110, United States",
+        "price_level": 1
+    },
+    {
+        "name": "China House Bar & Restaurant",
+        "location": {
+            "lat": 37.805495,
+            "lng": -122.412082
+        },
+        "address": "2237 Powell Street, San Francisco, CA 94133, United States",
+        "price_level": 1
+    },
+    {
+        "name": "China Express & Donuts",
+        "location": {
+            "lat": 37.752357,
+            "lng": -122.4188
+        },
+        "address": "2798 Mission Street, San Francisco, CA 94110, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hong Kong Delights",
+        "location": {
+            "lat": 37.714158,
+            "lng": -122.463023
+        },
+        "address": "295 Orizaba Avenue, San Francisco, CA 94132, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.783189,
+            "lng": -122.432489
+        },
+        "address": "1480 Fillmore Street, San Francisco, CA 94115, United States",
+        "price_level": 1
+    },
+    {
+        "name": "SF Oceanic Restaurant",
+        "location": {
+            "lat": 37.767608,
+            "lng": -122.406533
+        },
+        "address": "101 Utah Street # A, San Francisco, CA 94103, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.763604,
+            "lng": -122.458759
+        },
+        "address": "500 Parnassus Avenue, San Francisco, CA 94143, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Melisa's Chinese Cuisine",
+        "location": {
+            "lat": 37.777353,
+            "lng": -122.463829
+        },
+        "address": "450 Balboa Street, San Francisco, CA 94118, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Henry's Hunan Restaurant",
+        "location": {
+            "lat": 37.772291,
+            "lng": -122.407611
+        },
+        "address": "1016 Bryant Street, San Francisco, CA 94103, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.783722,
+            "lng": -122.407196
+        },
+        "address": "865 Market Street, San Francisco, CA 94103, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Shangrila Vegetarian Restaurant",
+        "location": {
+            "lat": 37.763712,
+            "lng": -122.47983
+        },
+        "address": "2026 Irving Street, San Francisco, CA 94122, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Fang Restaurant",
+        "location": {
+            "lat": 37.785793,
+            "lng": -122.399895
+        },
+        "address": "660 Howard Street, San Francisco, CA 94105, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Shanghai Dumpling King",
+        "location": {
+            "lat": 37.775678,
+            "lng": -122.494514
+        },
+        "address": "3319 Balboa Street, San Francisco, CA 94121, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hong Kong Lounge",
+        "location": {
+            "lat": 37.780695,
+            "lng": -122.47668
+        },
+        "address": "5322 Geary Boulevard, San Francisco, CA 94121, United States",
+        "price_level": 2
+    },
+    {
+        "name": "New Asia Restaurant",
+        "location": {
+            "lat": 37.796975,
+            "lng": -122.408046
+        },
+        "address": "772 Pacific Avenue, San Francisco, CA 94133, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Utopia Cafe",
+        "location": {
+            "lat": 37.794714,
+            "lng": -122.407119
+        },
+        "address": "139 Waverly Place, San Francisco, CA 94108, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Emmy's Restaurant",
+        "location": {
+            "lat": 37.725308,
+            "lng": -122.462902
+        },
+        "address": "1923 Ocean Avenue, San Francisco, CA 94127, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Koi Palace",
+        "location": {
+            "lat": 37.666071,
+            "lng": -122.466646
+        },
+        "address": "365 Gellert Boulevard, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Bund Shanghai Restaurant",
+        "location": {
+            "lat": 37.796245,
+            "lng": -122.405956
+        },
+        "address": "640 Jackson Street, San Francisco, CA 94133, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Golden Gate Dim Sum Seafood Restaurant",
+        "location": {
+            "lat": 37.782013,
+            "lng": -122.479049
+        },
+        "address": "1829 Clement Street, San Francisco, CA 94121, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Wing Hing Restaurant",
+        "location": {
+            "lat": 37.729369,
+            "lng": -122.404515
+        },
+        "address": "2550 San Bruno Avenue, San Francisco, CA 94134, United States",
+        "price_level": 2
+    },
+    {
+        "name": "8 Immortals Restaurant",
+        "location": {
+            "lat": 37.742645,
+            "lng": -122.481707
+        },
+        "address": "1433 Taraval Street, San Francisco, CA 94116, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Empero Taste",
+        "location": {
+            "lat": 37.775691,
+            "lng": -122.502496
+        },
+        "address": "4052 Balboa Street, San Francisco, CA 94121, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Elaine's Kitchen",
+        "location": {
+            "lat": 37.798256,
+            "lng": -122.404404
+        },
+        "address": "434 Broadway Street, San Francisco, CA 94133, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Golden Chariot Bakery & Restaurant",
+        "location": {
+            "lat": 37.776032,
+            "lng": -122.494373
+        },
+        "address": "3308 Balboa Street, San Francisco, CA 94121, United States"
+    },
+    {
+        "name": "Wei Lee Chinese Food & Donuts",
+        "location": {
+            "lat": 37.78304,
+            "lng": -122.466763
+        },
+        "address": "700 Clement Street, San Francisco, CA 94118, United States"
+    },
+    {
+        "name": "San Sun Restaurant",
+        "location": {
+            "lat": 37.795178,
+            "lng": -122.407252
+        },
+        "address": "848 Washington Street, San Francisco, CA 94108, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Mission Hunan Restaurant",
+        "location": {
+            "lat": 37.765308,
+            "lng": -122.418941
+        },
+        "address": "2960 16th Street, San Francisco, CA 94103, United States"
+    },
+    {
+        "name": "City View Restaurant",
+        "location": {
+            "lat": 37.794237,
+            "lng": -122.404117
+        },
+        "address": "662 Commercial Street, San Francisco, CA 94111, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Alice's Restaurant",
+        "location": {
+            "lat": 37.743708,
+            "lng": -122.428714
+        },
+        "address": "1599 Sanchez Street, San Francisco, CA 94131, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Henry's Hunan Restaurant",
+        "location": {
+            "lat": 37.743403,
+            "lng": -122.426874
+        },
+        "address": "1708 Church Street, San Francisco, CA 94131, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Brandy Ho's Hunan Food",
+        "location": {
+            "lat": 37.79718,
+            "lng": -122.406037
+        },
+        "address": "217 Columbus Avenue, San Francisco, CA 94133, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hakkasan San Francisco",
+        "location": {
+            "lat": 37.787822,
+            "lng": -122.403675
+        },
+        "address": "1 Kearny Street, San Francisco, CA 94108, United States",
+        "price_level": 3
+    },
+    {
+        "name": "Red Jade Restaurant",
+        "location": {
+            "lat": 37.766838,
+            "lng": -122.428743
+        },
+        "address": "245 Church Street, San Francisco, CA 94114, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Xiao Loong Restaurant",
+        "location": {
+            "lat": 37.738566,
+            "lng": -122.468867
+        },
+        "address": "250 West Portal Avenue, San Francisco, CA 94127, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Nan King Road Bistro",
+        "location": {
+            "lat": 37.762929,
+            "lng": -122.466046
+        },
+        "address": "1360 9th Avenue, San Francisco, CA 94122, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Bamboo Restaurant",
+        "location": {
+            "lat": 37.790146,
+            "lng": -122.420836
+        },
+        "address": "1441 Polk Street, San Francisco, CA 94109, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tai Chi",
+        "location": {
+            "lat": 37.795511,
+            "lng": -122.421875
+        },
+        "address": "2031 Polk Street, San Francisco, CA 94109, United States",
+        "price_level": 2
+    },
+    {
+        "name": "May Lee's Chinese and Japanese Restaurant",
+        "location": {
+            "lat": 37.764877,
+            "lng": -122.464042
+        },
+        "address": "1256 7th Avenue, San Francisco, CA 94122, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Punjab Restaurant",
+        "location": {
+            "lat": 37.75299,
+            "lng": -122.408958
+        },
+        "address": "2838 24th Street, San Francisco, CA 94110, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Gourmet Carousel",
+        "location": {
+            "lat": 37.789083,
+            "lng": -122.423949
+        },
+        "address": "1559 Franklin Street, San Francisco, CA 94109, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Hong Kong Clay Pot City Restaurant",
+        "location": {
+            "lat": 37.795891,
+            "lng": -122.406494
+        },
+        "address": "960 Grant Avenue, San Francisco, CA 94108, United States",
+        "price_level": 1
+    },
+    {
+        "name": "WASHINGTON BAKERY&RESTAURANT",
+        "location": {
+            "lat": 37.795048,
+            "lng": -122.406065
+        },
+        "address": "733 Washington Street, San Francisco, CA 94108, United States"
+    },
+    {
+        "name": "Beijing Restaurant",
+        "location": {
+            "lat": 37.723551,
+            "lng": -122.43725
+        },
+        "address": "1801 Alemany Boulevard, San Francisco, CA 94112, United States",
+        "price_level": 1
+    },
+    {
+        "name": "New Lun Ting Cafe",
+        "location": {
+            "lat": 37.796281,
+            "lng": -122.406351
+        },
+        "address": "670 Jackson Street, San Francisco, CA 94133, United States"
+    },
+    {
+        "name": "Lucky Creation Vegetarian Restaurant",
+        "location": {
+            "lat": 37.795278,
+            "lng": -122.407458
+        },
+        "address": "854 Washington Street, San Francisco, CA 94108, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Imperial Palace",
+        "location": {
+            "lat": 37.795231,
+            "lng": -122.406823
+        },
+        "address": "818 Washington Street, San Francisco, CA 94108, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Yum Yum Hunan Restaurant",
+        "location": {
+            "lat": 37.786679,
+            "lng": -122.439898
+        },
+        "address": "1828 Divisadero Street, San Francisco, CA 94115, United States",
+        "price_level": 1
+    },
+    {
+        "name": "The Garden Restaurant",
+        "location": {
+            "lat": 37.794793,
+            "lng": -122.40467
+        },
+        "address": "716 Kearny Street, San Francisco, CA 94108, United States"
+    },
+    {
+        "name": "Golden Wok",
+        "location": {
+            "lat": 37.714112,
+            "lng": -122.462833
+        },
+        "address": "295 Orizaba Avenue, San Francisco, CA 94132, United States"
+    },
+    {
+        "name": "Tao Yin",
+        "location": {
+            "lat": 37.758431,
+            "lng": -122.419572
+        },
+        "address": "3515 20th Street, San Francisco, CA 94110, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Sichuan Home",
+        "location": {
+            "lat": 37.780409,
+            "lng": -122.473589
+        },
+        "address": "5037 Geary Boulevard, San Francisco, CA 94118, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Unicorn Pan Asian Cuisine",
+        "location": {
+            "lat": 37.792132,
+            "lng": -122.399237
+        },
+        "address": "191 Pine Street, San Francisco, CA 94111, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Henry's Hunan",
+        "location": {
+            "lat": 37.799046,
+            "lng": -122.402092
+        },
+        "address": "924 Sansome Street, San Francisco, CA 94111, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.727699,
+            "lng": -122.476698
+        },
+        "address": "3251 20th Avenue #250H, San Francisco, CA 94132, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Eric's Chinese Restaurant",
+        "location": {
+            "lat": 37.74675,
+            "lng": -122.427183
+        },
+        "address": "1500 Church Street, San Francisco, CA 94131, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Yummy House",
+        "location": {
+            "lat": 37.72097,
+            "lng": -122.437324
+        },
+        "address": "4829 Mission Street, San Francisco, CA 94112, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Andy's Chinese Cuisine",
+        "location": {
+            "lat": 37.763088,
+            "lng": -122.466058
+        },
+        "address": "1358 9th Avenue, San Francisco, CA 94122, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Golden Kim Tar",
+        "location": {
+            "lat": 37.781975,
+            "lng": -122.417113
+        },
+        "address": "434 Larkin Street, San Francisco, CA 94102, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Henry's Hunan Restaurant",
+        "location": {
+            "lat": 37.786976,
+            "lng": -122.399294
+        },
+        "address": "110 Natoma Street, San Francisco, CA 94105, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Enjoy Vegetarian Restaurant",
+        "location": {
+            "lat": 37.760408,
+            "lng": -122.469149
+        },
+        "address": "754 Kirkham Street, San Francisco, CA 94122, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Wonderland Restaurant",
+        "location": {
+            "lat": 37.772302,
+            "lng": -122.43065
+        },
+        "address": "500 Haight Street, San Francisco, CA 94117, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Family Garden",
+        "location": {
+            "lat": 37.773658,
+            "lng": -122.416074
+        },
+        "address": "167 11th Street, San Francisco, CA 94103, United States",
+        "price_level": 1
+    },
+    {
+        "name": "King Wah Restaurant",
+        "location": {
+            "lat": 37.697068,
+            "lng": -122.484869
+        },
+        "address": "209 Southgate Avenue, Daly City, CA 94015, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chinatown Restaurant",
+        "location": {
+            "lat": 37.79534,
+            "lng": -122.405985
+        },
+        "address": "744 Washington Street, San Francisco, CA 94108, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Shanghai China Restaurant",
+        "location": {
+            "lat": 37.773264,
+            "lng": -122.418069
+        },
+        "address": "1559 Mission Street, San Francisco, CA 94103, United States"
+    },
+    {
+        "name": "Just Won Ton",
+        "location": {
+            "lat": 37.738959,
+            "lng": -122.480472
+        },
+        "address": "1241 Vicente Street, San Francisco, CA 94116, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Grant Place Restaurant",
+        "location": {
+            "lat": 37.795061,
+            "lng": -122.406156
+        },
+        "address": "737 Washington Street, San Francisco, CA 94108, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Dumpling Kitchen",
+        "location": {
+            "lat": 37.742315,
+            "lng": -122.48702
+        },
+        "address": "1935 Taraval Street, San Francisco, CA 94116, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hong's Restaurant",
+        "location": {
+            "lat": 37.742199,
+            "lng": -122.498943
+        },
+        "address": "3044 Taraval Street, San Francisco, CA 94116, United States"
+    },
+    {
+        "name": "Egg Roll King Chinese Restaurant",
+        "location": {
+            "lat": 37.699191,
+            "lng": -122.463715
+        },
+        "address": "6811 Mission Street, Daly City, CA 94014, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Golden River Dim Sum & Seafood Restaurant",
+        "location": {
+            "lat": 37.779967,
+            "lng": -122.482054
+        },
+        "address": "5827 Geary Boulevard, San Francisco, CA 94121, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Dick Lee Pastry",
+        "location": {
+            "lat": 37.79611,
+            "lng": -122.407066
+        },
+        "address": "716 Jackson Street, San Francisco, CA 94133, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Lucky River Restaurants",
+        "location": {
+            "lat": 37.731734,
+            "lng": -122.451308
+        },
+        "address": "700 Monterey Boulevard, San Francisco, CA 94127, United States"
+    },
+    {
+        "name": "Far East Cafe",
+        "location": {
+            "lat": 37.792944,
+            "lng": -122.406368
+        },
+        "address": "631 Grant Avenue, San Francisco, CA 94108, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Sam's Chinese Kitchen",
+        "location": {
+            "lat": 37.660651,
+            "lng": -122.477291
+        },
+        "address": "793 Hickey Boulevard, Pacifica, CA 94044, United States"
+    },
+    {
+        "name": "Ly Luck Chinese Restaurant",
+        "location": {
+            "lat": 37.709298,
+            "lng": -122.451844
+        },
+        "address": "5820 Mission Street, San Francisco, CA 94112, United States"
+    },
+    {
+        "name": "Hunan Chef",
+        "location": {
+            "lat": 37.739158,
+            "lng": -122.416045
+        },
+        "address": "525 Cortland Avenue, San Francisco, CA 94110, United States"
+    },
+    {
+        "name": "Henry's Hunan Restaurant",
+        "location": {
+            "lat": 37.722137,
+            "lng": -122.436467
+        },
+        "address": "4753 Mission Street, San Francisco, CA 94112, United States"
+    },
+    {
+        "name": "Shanghai House",
+        "location": {
+            "lat": 37.775527,
+            "lng": -122.498022
+        },
+        "address": "3641 Balboa Street, San Francisco, CA 94121, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Country Sky",
+        "location": {
+            "lat": 37.800026,
+            "lng": -122.438005
+        },
+        "address": "3321 Steiner Street, San Francisco, CA 94123, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Jasmine Tea House",
+        "location": {
+            "lat": 37.744707,
+            "lng": -122.420292
+        },
+        "address": "3253 Mission Street, San Francisco, CA 94110, United States",
+        "price_level": 2
+    },
+    {
+        "name": "New Tsing Tao Restaurant",
+        "location": {
+            "lat": 37.740522,
+            "lng": -122.465453
+        },
+        "address": "811 Ulloa Street, San Francisco, CA 94127, United States",
+        "price_level": 1
+    },
+    {
+        "name": "77 Chinese Cuisine",
+        "location": {
+            "lat": 37.791949,
+            "lng": -122.400007
+        },
+        "address": "77 Battery Street, San Francisco, CA 94111, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Mission Chinese Food",
+        "location": {
+            "lat": 37.761215,
+            "lng": -122.419652
+        },
+        "address": "2234 Mission Street, San Francisco, CA 94110, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Kingdom of Dumpling",
+        "location": {
+            "lat": 37.742397,
+            "lng": -122.484548
+        },
+        "address": "1713 Taraval Street, San Francisco, CA 94116, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Great Eastern Restaurant",
+        "location": {
+            "lat": 37.796012,
+            "lng": -122.405913
+        },
+        "address": "649 Jackson Street, San Francisco, CA 94133, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Jade Cafe",
+        "location": {
+            "lat": 37.765818,
+            "lng": -122.410784
+        },
+        "address": "1668 Bryant Street, San Francisco, CA 94103, United States",
+        "price_level": 2
+    },
+    {
+        "name": "House Of Xian Dumpling",
+        "location": {
+            "lat": 37.79657,
+            "lng": -122.405435
+        },
+        "address": "925 Kearny Street, San Francisco, CA 94133, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Yuet Lee",
+        "location": {
+            "lat": 37.79781,
+            "lng": -122.408464
+        },
+        "address": "1300 Stockton Street, San Francisco, CA 94133, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Wok Shop Cafe",
+        "location": {
+            "lat": 37.78739,
+            "lng": -122.422138
+        },
+        "address": "1307 Sutter Street, San Francisco, CA 94109, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Taiwan Restaurant",
+        "location": {
+            "lat": 37.78279,
+            "lng": -122.464149
+        },
+        "address": "445 Clement Street, San Francisco, CA 94118, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hai Ky Mi Gia",
+        "location": {
+            "lat": 37.784102,
+            "lng": -122.41792
+        },
+        "address": "707 Ellis Street, San Francisco, CA 94109, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hang Ah Dim Sum Tea House",
+        "location": {
+            "lat": 37.793388,
+            "lng": -122.407444
+        },
+        "address": "1 Pagoda Place, San Francisco, CA 94108, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Little Beijing Restaurant",
+        "location": {
+            "lat": 37.754326,
+            "lng": -122.477933
+        },
+        "address": "1316 Noriega Street, San Francisco, CA 94122, United States"
+    },
+    {
+        "name": "House of Banquet",
+        "location": {
+            "lat": 37.782578,
+            "lng": -122.469432
+        },
+        "address": "939 Clement Street, San Francisco, CA 94118, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Five Happiness",
+        "location": {
+            "lat": 37.781282,
+            "lng": -122.463963
+        },
+        "address": "4142 Geary Boulevard, San Francisco, CA 94118, United States",
+        "price_level": 1
+    },
+    {
+        "name": "ABC Bakery Cafe",
+        "location": {
+            "lat": 37.753842,
+            "lng": -122.490634
+        },
+        "address": "2500 Noriega Street, San Francisco, CA 94122, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Taste of Formosa",
+        "location": {
+            "lat": 37.782161,
+            "lng": -122.485442
+        },
+        "address": "2428 Clement Street, San Francisco, CA 94121, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Chung King Restaurant",
+        "location": {
+            "lat": 37.796307,
+            "lng": -122.405486
+        },
+        "address": "606 Jackson Street, San Francisco, CA 94133, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Ben Wah Restaurant",
+        "location": {
+            "lat": 37.788266,
+            "lng": -122.440182
+        },
+        "address": "2786 California, San Francisco, CA 94115, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Dong Bei Mama",
+        "location": {
+            "lat": 37.780507,
+            "lng": -122.470334
+        },
+        "address": "4737 Geary Boulevard, San Francisco, CA 94118, United States"
+    },
+    {
+        "name": "King Lee's Chinese Restaurant",
+        "location": {
+            "lat": 37.782879,
+            "lng": -122.432243
+        },
+        "address": "1426 Fillmore Street, San Francisco, CA 94115, United States"
+    },
+    {
+        "name": "Henry's Hunan Restaurant",
+        "location": {
+            "lat": 37.793787,
+            "lng": -122.404164
+        },
+        "address": "674 Sacramento Street, San Francisco, CA 94111, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Taipei Restaurant",
+        "location": {
+            "lat": 37.732404,
+            "lng": -122.474266
+        },
+        "address": "2666 Ocean Avenue, San Francisco, CA 94132, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Burma Superstar",
+        "location": {
+            "lat": 37.782787,
+            "lng": -122.462571
+        },
+        "address": "309 Clement Street, San Francisco, CA 94118, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Canton Seafood & Dim Sum Restaurant",
+        "location": {
+            "lat": 37.784351,
+            "lng": -122.397864
+        },
+        "address": "655 Folsom Street, San Francisco, CA 94107, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Cheung Hing Restaurant",
+        "location": {
+            "lat": 37.753517,
+            "lng": -122.488924
+        },
+        "address": "2339 Noriega Street, San Francisco, CA 94122, United States",
+        "price_level": 1
+    },
+    {
+        "name": "House of Nanking",
+        "location": {
+            "lat": 37.796477,
+            "lng": -122.405426
+        },
+        "address": "919 Kearny Street, San Francisco, CA 94133, United States",
+        "price_level": 2
+    },
+    {
+        "name": "Kathy's Chinese Cuisine",
+        "location": {
+            "lat": 37.747286,
+            "lng": -122.459528
+        },
+        "address": "408 Dewey Boulevard, San Francisco, CA 94116, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Abacus",
+        "location": {
+            "lat": 37.773493,
+            "lng": -122.450687
+        },
+        "address": "2078 Hayes Street, San Francisco, CA 94117, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Spices",
+        "location": {
+            "lat": 37.783236,
+            "lng": -122.466435
+        },
+        "address": "294 8th Avenue, San Francisco, CA 94118, United States",
+        "price_level": 2
+    },
+    {
+        "name": "New Mandarin Garden",
+        "location": {
+            "lat": 37.651158,
+            "lng": -122.430679
+        },
+        "address": "774 El Camino Real, South San Francisco, CA 94080, United States"
+    },
+    {
+        "name": "Perfect Hamburger",
+        "location": {
+            "lat": 37.786531,
+            "lng": -122.41333
+        },
+        "address": "601 Geary Street, San Francisco, CA 94102, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Kam PO Kitchen",
+        "location": {
+            "lat": 37.797193,
+            "lng": -122.410453
+        },
+        "address": "801 Broadway Street, San Francisco, CA 94133, United States",
+        "price_level": 1
+    },
+    {
+        "name": "WIN'S RESTAURANT",
+        "location": {
+            "lat": 37.742293,
+            "lng": -122.498889
+        },
+        "address": "3040 Taraval Street, San Francisco, CA 94116, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Hong Kong Seafood Restaurant",
+        "location": {
+            "lat": 37.753791,
+            "lng": -122.491224
+        },
+        "address": "2578 Noriega Street, San Francisco, CA 94122, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Tsing Tao Restaurant",
+        "location": {
+            "lat": 37.779925,
+            "lng": -122.432254
+        },
+        "address": "1117 Fillmore Street, San Francisco, CA 94115, United States",
+        "price_level": 1
+    },
+    {
+        "name": "Panda Express",
+        "location": {
+            "lat": 37.671629,
+            "lng": -122.47175
+        },
+        "address": "86 Serramonte Center #703, Daly City, CA 94015, United States",
+        "price_level": 1
+    }
+]
